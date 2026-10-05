@@ -1,0 +1,11 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>acme-inbound-mx</projectname>
+  <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+      <feature required="true">SERVERSIDESCRIPTING</feature>
+      <feature required="true">INBOUNDSHIPMENT</feature>
+      <feature required="true">LANDEDCOST</feature>
+    </features>
+  </dependencies>
+</manifest>

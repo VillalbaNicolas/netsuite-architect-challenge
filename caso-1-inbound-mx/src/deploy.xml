@@ -1,0 +1,4 @@
+<deploy>
+  <files><path>~/FileCabinet/SuiteScripts/acme_inbship/*</path></files>
+  <objects><path>~/Objects/*</path></objects>
+</deploy>

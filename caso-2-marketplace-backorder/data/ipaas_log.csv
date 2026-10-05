@@ -1,0 +1,1802 @@
+ts,flow,mp_order_id,attempt,outcome,error_code,message
+2026-09-01 03:00,marketplace-orders-to-netsuite,2000000127,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-01 03:01,marketplace-orders-to-netsuite,2000000127,2,SUCCESS,,
+2026-09-01 10:30,marketplace-orders-to-netsuite,2000000201,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-01 10:32,marketplace-orders-to-netsuite,2000000201,2,SUCCESS,,
+2026-09-01 10:38,marketplace-orders-to-netsuite,2000000208,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-01 10:39,marketplace-orders-to-netsuite,2000000208,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-01 10:40,marketplace-orders-to-netsuite,2000000208,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-01 10:41,marketplace-orders-to-netsuite,2000000208,4,SUCCESS,,
+2026-09-01 11:12,marketplace-orders-to-netsuite,2000000231,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-01 11:22,marketplace-orders-to-netsuite,2000000231,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-01 11:24,marketplace-orders-to-netsuite,2000000235,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-01 11:25,marketplace-orders-to-netsuite,2000000235,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-01 11:26,marketplace-orders-to-netsuite,2000000235,3,SUCCESS,,
+2026-09-01 11:28,marketplace-orders-to-netsuite,2000000242,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-01 11:32,marketplace-orders-to-netsuite,2000000231,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-01 11:38,marketplace-orders-to-netsuite,2000000242,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-01 11:44,marketplace-orders-to-netsuite,2000000261,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-01 11:46,marketplace-orders-to-netsuite,2000000261,2,SUCCESS,,
+2026-09-01 11:48,marketplace-orders-to-netsuite,2000000242,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-01 11:54,marketplace-orders-to-netsuite,2000000264,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-01 11:55,marketplace-orders-to-netsuite,2000000264,2,SUCCESS,,
+2026-09-01 12:35,marketplace-orders-to-netsuite,2000000305,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-01 12:36,marketplace-orders-to-netsuite,2000000305,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-01 12:37,marketplace-orders-to-netsuite,2000000305,3,SUCCESS,,
+2026-09-01 13:23,marketplace-orders-to-netsuite,2000000340,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-01 13:25,marketplace-orders-to-netsuite,2000000340,2,SUCCESS,,
+2026-09-01 13:53,marketplace-orders-to-netsuite,2000000385,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-01 13:54,marketplace-orders-to-netsuite,2000000385,2,SUCCESS,,
+2026-09-01 16:01,marketplace-orders-to-netsuite,2000000487,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-01 16:11,marketplace-orders-to-netsuite,2000000487,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-01 16:19,marketplace-orders-to-netsuite,2000000495,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-01 16:20,marketplace-orders-to-netsuite,2000000495,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-01 16:21,marketplace-orders-to-netsuite,2000000495,3,SUCCESS,,
+2026-09-01 16:21,marketplace-orders-to-netsuite,2000000487,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-01 17:05,marketplace-orders-to-netsuite,2000000533,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-01 17:06,marketplace-orders-to-netsuite,2000000533,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-01 17:07,marketplace-orders-to-netsuite,2000000533,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-01 17:08,marketplace-orders-to-netsuite,2000000533,4,SUCCESS,,
+2026-09-01 18:12,marketplace-orders-to-netsuite,2000000592,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-01 18:16,marketplace-orders-to-netsuite,2000000602,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-01 18:22,marketplace-orders-to-netsuite,2000000592,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-01 18:23,marketplace-orders-to-netsuite,2000000603,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-01 18:24,marketplace-orders-to-netsuite,2000000603,2,SUCCESS,,
+2026-09-01 18:26,marketplace-orders-to-netsuite,2000000602,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-01 18:32,marketplace-orders-to-netsuite,2000000592,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-01 18:36,marketplace-orders-to-netsuite,2000000602,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-01 18:59,marketplace-orders-to-netsuite,2000000647,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-01 19:00,marketplace-orders-to-netsuite,2000000647,2,SUCCESS,,
+2026-09-01 19:12,marketplace-orders-to-netsuite,2000000667,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-01 19:22,marketplace-orders-to-netsuite,2000000667,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-01 19:32,marketplace-orders-to-netsuite,2000000667,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-01 20:06,marketplace-orders-to-netsuite,2000000705,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-01 20:16,marketplace-orders-to-netsuite,2000000705,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-01 20:26,marketplace-orders-to-netsuite,2000000705,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-01 20:33,marketplace-orders-to-netsuite,2000000717,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-01 20:34,marketplace-orders-to-netsuite,2000000721,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-01 20:35,marketplace-orders-to-netsuite,2000000721,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-01 20:35,marketplace-orders-to-netsuite,2000000717,2,SUCCESS,,
+2026-09-01 20:36,marketplace-orders-to-netsuite,2000000721,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-01 20:37,marketplace-orders-to-netsuite,2000000721,4,SUCCESS,,
+2026-09-01 21:07,marketplace-orders-to-netsuite,2000000738,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-01 21:14,marketplace-orders-to-netsuite,2000000750,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-01 21:16,marketplace-orders-to-netsuite,2000000750,2,SUCCESS,,
+2026-09-01 21:17,marketplace-orders-to-netsuite,2000000738,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-01 21:27,marketplace-orders-to-netsuite,2000000738,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-01 22:06,marketplace-orders-to-netsuite,2000000781,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-01 22:16,marketplace-orders-to-netsuite,2000000781,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-01 22:26,marketplace-orders-to-netsuite,2000000781,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-01 23:28,marketplace-orders-to-netsuite,2000000844,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-01 23:30,marketplace-orders-to-netsuite,2000000844,2,SUCCESS,,
+2026-09-02 00:05,marketplace-orders-to-netsuite,2000000875,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-02 00:06,marketplace-orders-to-netsuite,2000000875,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-02 00:07,marketplace-orders-to-netsuite,2000000875,3,SUCCESS,,
+2026-09-02 00:27,marketplace-orders-to-netsuite,2000000900,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-02 00:29,marketplace-orders-to-netsuite,2000000900,2,SUCCESS,,
+2026-09-02 00:30,marketplace-orders-to-netsuite,2000000892,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-02 00:32,marketplace-orders-to-netsuite,2000000892,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-02 00:34,marketplace-orders-to-netsuite,2000000892,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-02 00:36,marketplace-orders-to-netsuite,2000000892,4,SUCCESS,,
+2026-09-02 00:42,marketplace-orders-to-netsuite,2000000903,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-02 00:52,marketplace-orders-to-netsuite,2000000903,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-02 01:02,marketplace-orders-to-netsuite,2000000903,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-02 01:40,marketplace-orders-to-netsuite,2000000954,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-02 01:42,marketplace-orders-to-netsuite,2000000954,2,SUCCESS,,
+2026-09-02 10:27,marketplace-orders-to-netsuite,2000001061,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-02 10:29,marketplace-orders-to-netsuite,2000001061,2,SUCCESS,,
+2026-09-02 11:38,marketplace-orders-to-netsuite,2000001108,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-02 11:40,marketplace-orders-to-netsuite,2000001108,2,SUCCESS,,
+2026-09-02 12:10,marketplace-orders-to-netsuite,2000001135,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-02 12:11,marketplace-orders-to-netsuite,2000001135,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-02 12:12,marketplace-orders-to-netsuite,2000001135,3,SUCCESS,,
+2026-09-02 13:01,marketplace-orders-to-netsuite,2000001191,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-02 13:03,marketplace-orders-to-netsuite,2000001194,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-02 13:05,marketplace-orders-to-netsuite,2000001194,2,SUCCESS,,
+2026-09-02 13:11,marketplace-orders-to-netsuite,2000001191,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-02 13:21,marketplace-orders-to-netsuite,2000001191,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-02 13:29,marketplace-orders-to-netsuite,2000001212,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-02 13:30,marketplace-orders-to-netsuite,2000001212,2,SUCCESS,,
+2026-09-02 13:40,marketplace-orders-to-netsuite,2000001224,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-02 13:41,marketplace-orders-to-netsuite,2000001224,2,SUCCESS,,
+2026-09-02 14:00,marketplace-orders-to-netsuite,2000001244,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-02 14:02,marketplace-orders-to-netsuite,2000001244,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-02 14:04,marketplace-orders-to-netsuite,2000001244,3,SUCCESS,,
+2026-09-02 15:11,marketplace-orders-to-netsuite,2000001306,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-02 15:21,marketplace-orders-to-netsuite,2000001306,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-02 15:31,marketplace-orders-to-netsuite,2000001306,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-02 17:22,marketplace-orders-to-netsuite,2000001412,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-02 17:24,marketplace-orders-to-netsuite,2000001412,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-02 17:26,marketplace-orders-to-netsuite,2000001412,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-02 17:28,marketplace-orders-to-netsuite,2000001412,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-02 17:30,marketplace-orders-to-netsuite,2000001412,5,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-02 17:32,marketplace-orders-to-netsuite,2000001412,6,SUCCESS,,
+2026-09-02 17:39,marketplace-orders-to-netsuite,2000001425,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-02 17:40,marketplace-orders-to-netsuite,2000001425,2,SUCCESS,,
+2026-09-02 17:46,marketplace-orders-to-netsuite,2000001419,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-02 17:48,marketplace-orders-to-netsuite,2000001419,2,SUCCESS,,
+2026-09-02 18:35,marketplace-orders-to-netsuite,2000001460,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-02 18:37,marketplace-orders-to-netsuite,2000001460,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-02 18:39,marketplace-orders-to-netsuite,2000001460,3,SUCCESS,,
+2026-09-02 19:36,marketplace-orders-to-netsuite,2000001512,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-02 19:37,marketplace-orders-to-netsuite,2000001512,2,SUCCESS,,
+2026-09-02 20:03,marketplace-orders-to-netsuite,2000001522,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-02 20:04,marketplace-orders-to-netsuite,2000001522,2,SUCCESS,,
+2026-09-02 20:15,marketplace-orders-to-netsuite,2000001533,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-02 20:17,marketplace-orders-to-netsuite,2000001533,2,SUCCESS,,
+2026-09-02 20:35,marketplace-orders-to-netsuite,2000001550,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-02 20:45,marketplace-orders-to-netsuite,2000001550,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-02 20:55,marketplace-orders-to-netsuite,2000001562,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-02 20:55,marketplace-orders-to-netsuite,2000001550,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-02 21:05,marketplace-orders-to-netsuite,2000001562,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-02 21:15,marketplace-orders-to-netsuite,2000001562,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-02 23:33,marketplace-orders-to-netsuite,2000001673,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-02 23:34,marketplace-orders-to-netsuite,2000001673,2,SUCCESS,,
+2026-09-03 01:02,marketplace-orders-to-netsuite,2000001740,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-03 01:03,marketplace-orders-to-netsuite,2000001740,2,SUCCESS,,
+2026-09-03 01:11,marketplace-orders-to-netsuite,2000001743,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-03 01:13,marketplace-orders-to-netsuite,2000001743,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-03 01:15,marketplace-orders-to-netsuite,2000001743,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-03 01:17,marketplace-orders-to-netsuite,2000001743,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-03 01:19,marketplace-orders-to-netsuite,2000001743,5,SUCCESS,,
+2026-09-03 01:40,marketplace-orders-to-netsuite,2000001766,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-03 01:50,marketplace-orders-to-netsuite,2000001766,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-03 02:00,marketplace-orders-to-netsuite,2000001766,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-03 02:31,marketplace-orders-to-netsuite,2000001788,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-03 02:32,marketplace-orders-to-netsuite,2000001788,2,SUCCESS,,
+2026-09-03 03:47,marketplace-orders-to-netsuite,2000001807,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-03 03:48,marketplace-orders-to-netsuite,2000001807,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-03 03:49,marketplace-orders-to-netsuite,2000001807,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-03 03:50,marketplace-orders-to-netsuite,2000001807,4,SUCCESS,,
+2026-09-03 09:46,marketplace-orders-to-netsuite,2000001849,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-03 09:47,marketplace-orders-to-netsuite,2000001849,2,SUCCESS,,
+2026-09-03 12:41,marketplace-orders-to-netsuite,2000001950,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-03 12:51,marketplace-orders-to-netsuite,2000001950,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-03 13:01,marketplace-orders-to-netsuite,2000001950,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-03 14:32,marketplace-orders-to-netsuite,2000002051,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-03 14:42,marketplace-orders-to-netsuite,2000002051,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-03 14:52,marketplace-orders-to-netsuite,2000002051,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-03 15:01,marketplace-orders-to-netsuite,2000002081,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-03 15:11,marketplace-orders-to-netsuite,2000002081,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-03 15:21,marketplace-orders-to-netsuite,2000002081,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-03 15:29,marketplace-orders-to-netsuite,2000002118,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-03 15:31,marketplace-orders-to-netsuite,2000002118,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-03 15:33,marketplace-orders-to-netsuite,2000002118,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-03 15:35,marketplace-orders-to-netsuite,2000002118,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-03 15:37,marketplace-orders-to-netsuite,2000002118,5,SUCCESS,,
+2026-09-03 16:37,marketplace-orders-to-netsuite,2000002164,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-03 16:38,marketplace-orders-to-netsuite,2000002164,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-03 16:39,marketplace-orders-to-netsuite,2000002164,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-03 16:40,marketplace-orders-to-netsuite,2000002164,4,SUCCESS,,
+2026-09-03 18:03,marketplace-orders-to-netsuite,2000002230,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-03 18:13,marketplace-orders-to-netsuite,2000002230,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-03 18:21,marketplace-orders-to-netsuite,2000002246,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-03 18:22,marketplace-orders-to-netsuite,2000002246,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-03 18:23,marketplace-orders-to-netsuite,2000002238,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-03 18:23,marketplace-orders-to-netsuite,2000002246,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-03 18:23,marketplace-orders-to-netsuite,2000002230,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-03 18:24,marketplace-orders-to-netsuite,2000002238,2,SUCCESS,,
+2026-09-03 18:24,marketplace-orders-to-netsuite,2000002246,4,SUCCESS,,
+2026-09-03 18:30,marketplace-orders-to-netsuite,2000002254,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-03 18:31,marketplace-orders-to-netsuite,2000002254,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-03 18:32,marketplace-orders-to-netsuite,2000002254,3,SUCCESS,,
+2026-09-03 23:10,marketplace-orders-to-netsuite,2000002474,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-03 23:12,marketplace-orders-to-netsuite,2000002474,2,SUCCESS,,
+2026-09-04 00:45,marketplace-orders-to-netsuite,2000002542,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-04 00:46,marketplace-orders-to-netsuite,2000002542,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-04 00:47,marketplace-orders-to-netsuite,2000002542,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-04 00:48,marketplace-orders-to-netsuite,2000002542,4,SUCCESS,,
+2026-09-04 02:14,marketplace-orders-to-netsuite,2000002619,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-04 02:15,marketplace-orders-to-netsuite,2000002619,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-04 02:16,marketplace-orders-to-netsuite,2000002619,3,SUCCESS,,
+2026-09-04 02:25,marketplace-orders-to-netsuite,2000002626,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-04 02:25,marketplace-orders-to-netsuite,2000002630,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-04 02:26,marketplace-orders-to-netsuite,2000002626,2,SUCCESS,,
+2026-09-04 02:27,marketplace-orders-to-netsuite,2000002630,2,SUCCESS,,
+2026-09-04 11:07,marketplace-orders-to-netsuite,2000002719,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-04 11:17,marketplace-orders-to-netsuite,2000002719,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-04 11:27,marketplace-orders-to-netsuite,2000002719,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-04 12:14,marketplace-orders-to-netsuite,2000002759,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-04 12:16,marketplace-orders-to-netsuite,2000002759,2,SUCCESS,,
+2026-09-04 12:24,marketplace-orders-to-netsuite,2000002770,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-04 12:25,marketplace-orders-to-netsuite,2000002772,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-04 12:27,marketplace-orders-to-netsuite,2000002772,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-04 12:29,marketplace-orders-to-netsuite,2000002772,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-04 12:31,marketplace-orders-to-netsuite,2000002772,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-04 12:33,marketplace-orders-to-netsuite,2000002772,5,SUCCESS,,
+2026-09-04 12:34,marketplace-orders-to-netsuite,2000002770,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-04 12:44,marketplace-orders-to-netsuite,2000002770,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-04 13:39,marketplace-orders-to-netsuite,2000002838,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-04 13:40,marketplace-orders-to-netsuite,2000002838,2,SUCCESS,,
+2026-09-04 14:46,marketplace-orders-to-netsuite,2000002900,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-04 14:56,marketplace-orders-to-netsuite,2000002900,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-04 15:05,marketplace-orders-to-netsuite,2000002923,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-04 15:06,marketplace-orders-to-netsuite,2000002900,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-04 15:07,marketplace-orders-to-netsuite,2000002923,2,SUCCESS,,
+2026-09-04 15:13,marketplace-orders-to-netsuite,2000002932,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-04 15:14,marketplace-orders-to-netsuite,2000002932,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-04 15:15,marketplace-orders-to-netsuite,2000002932,3,SUCCESS,,
+2026-09-04 15:49,marketplace-orders-to-netsuite,2000002968,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-04 15:50,marketplace-orders-to-netsuite,2000002968,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-04 15:51,marketplace-orders-to-netsuite,2000002968,3,SUCCESS,,
+2026-09-04 18:13,marketplace-orders-to-netsuite,2000003099,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-04 18:23,marketplace-orders-to-netsuite,2000003099,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-04 18:33,marketplace-orders-to-netsuite,2000003099,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-04 18:58,marketplace-orders-to-netsuite,2000003132,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-04 19:08,marketplace-orders-to-netsuite,2000003132,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-04 19:09,marketplace-orders-to-netsuite,2000003145,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-04 19:10,marketplace-orders-to-netsuite,2000003145,2,SUCCESS,,
+2026-09-04 19:18,marketplace-orders-to-netsuite,2000003132,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-04 19:21,marketplace-orders-to-netsuite,2000003155,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-04 19:23,marketplace-orders-to-netsuite,2000003155,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-04 19:25,marketplace-orders-to-netsuite,2000003155,3,SUCCESS,,
+2026-09-04 19:51,marketplace-orders-to-netsuite,2000003192,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-04 19:53,marketplace-orders-to-netsuite,2000003192,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-04 19:55,marketplace-orders-to-netsuite,2000003192,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-04 19:57,marketplace-orders-to-netsuite,2000003192,4,SUCCESS,,
+2026-09-04 21:14,marketplace-orders-to-netsuite,2000003245,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-04 21:24,marketplace-orders-to-netsuite,2000003245,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-04 21:34,marketplace-orders-to-netsuite,2000003245,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-04 22:29,marketplace-orders-to-netsuite,2000003299,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-04 22:30,marketplace-orders-to-netsuite,2000003299,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-04 22:31,marketplace-orders-to-netsuite,2000003299,3,SUCCESS,,
+2026-09-04 22:52,marketplace-orders-to-netsuite,2000003311,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-04 22:53,marketplace-orders-to-netsuite,2000003311,2,SUCCESS,,
+2026-09-04 23:11,marketplace-orders-to-netsuite,2000003337,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-04 23:12,marketplace-orders-to-netsuite,2000003337,2,SUCCESS,,
+2026-09-04 23:41,marketplace-orders-to-netsuite,2000003353,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-04 23:41,marketplace-orders-to-netsuite,2000003359,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-04 23:43,marketplace-orders-to-netsuite,2000003353,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-04 23:45,marketplace-orders-to-netsuite,2000003353,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-04 23:47,marketplace-orders-to-netsuite,2000003353,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-04 23:49,marketplace-orders-to-netsuite,2000003353,5,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-04 23:51,marketplace-orders-to-netsuite,2000003353,6,SUCCESS,,
+2026-09-04 23:51,marketplace-orders-to-netsuite,2000003359,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-04 23:55,marketplace-orders-to-netsuite,2000003372,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-04 23:56,marketplace-orders-to-netsuite,2000003372,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-04 23:57,marketplace-orders-to-netsuite,2000003372,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-04 23:58,marketplace-orders-to-netsuite,2000003372,4,SUCCESS,,
+2026-09-05 00:01,marketplace-orders-to-netsuite,2000003359,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-05 00:40,marketplace-orders-to-netsuite,2000003406,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-05 00:41,marketplace-orders-to-netsuite,2000003406,2,SUCCESS,,
+2026-09-05 00:52,marketplace-orders-to-netsuite,2000003416,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-05 01:02,marketplace-orders-to-netsuite,2000003416,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-05 01:08,marketplace-orders-to-netsuite,2000003427,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-05 01:10,marketplace-orders-to-netsuite,2000003427,2,SUCCESS,,
+2026-09-05 01:12,marketplace-orders-to-netsuite,2000003416,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-05 01:24,marketplace-orders-to-netsuite,2000003440,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-05 01:26,marketplace-orders-to-netsuite,2000003440,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-05 01:28,marketplace-orders-to-netsuite,2000003440,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-05 01:30,marketplace-orders-to-netsuite,2000003440,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-05 01:32,marketplace-orders-to-netsuite,2000003440,5,SUCCESS,,
+2026-09-05 06:03,marketplace-orders-to-netsuite,2000003506,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-05 06:13,marketplace-orders-to-netsuite,2000003506,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-05 06:23,marketplace-orders-to-netsuite,2000003506,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-05 08:39,marketplace-orders-to-netsuite,2000003518,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-05 08:40,marketplace-orders-to-netsuite,2000003518,2,SUCCESS,,
+2026-09-05 10:05,marketplace-orders-to-netsuite,2000003538,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-05 10:06,marketplace-orders-to-netsuite,2000003538,2,SUCCESS,,
+2026-09-05 10:40,marketplace-orders-to-netsuite,2000003556,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-05 10:42,marketplace-orders-to-netsuite,2000003556,2,SUCCESS,,
+2026-09-05 12:54,marketplace-orders-to-netsuite,2000003670,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-05 12:55,marketplace-orders-to-netsuite,2000003675,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-05 12:55,marketplace-orders-to-netsuite,2000003670,2,SUCCESS,,
+2026-09-05 12:56,marketplace-orders-to-netsuite,2000003675,2,SUCCESS,,
+2026-09-05 13:30,marketplace-orders-to-netsuite,2000003700,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-05 13:40,marketplace-orders-to-netsuite,2000003700,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-05 13:50,marketplace-orders-to-netsuite,2000003717,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-05 13:50,marketplace-orders-to-netsuite,2000003700,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-05 13:51,marketplace-orders-to-netsuite,2000003717,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-05 13:52,marketplace-orders-to-netsuite,2000003717,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-05 13:53,marketplace-orders-to-netsuite,2000003717,4,SUCCESS,,
+2026-09-05 14:39,marketplace-orders-to-netsuite,2000003771,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-05 14:41,marketplace-orders-to-netsuite,2000003771,2,SUCCESS,,
+2026-09-05 15:22,marketplace-orders-to-netsuite,2000003809,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-05 15:32,marketplace-orders-to-netsuite,2000003809,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-05 15:42,marketplace-orders-to-netsuite,2000003809,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-05 15:53,marketplace-orders-to-netsuite,2000003837,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-05 16:03,marketplace-orders-to-netsuite,2000003837,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-05 16:13,marketplace-orders-to-netsuite,2000003872,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-05 16:13,marketplace-orders-to-netsuite,2000003837,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-05 16:15,marketplace-orders-to-netsuite,2000003872,2,SUCCESS,,
+2026-09-05 17:10,marketplace-orders-to-netsuite,2000003913,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-05 17:12,marketplace-orders-to-netsuite,2000003913,2,SUCCESS,,
+2026-09-05 17:44,marketplace-orders-to-netsuite,2000003933,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-05 17:46,marketplace-orders-to-netsuite,2000003933,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-05 17:48,marketplace-orders-to-netsuite,2000003933,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-05 17:50,marketplace-orders-to-netsuite,2000003933,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-05 17:52,marketplace-orders-to-netsuite,2000003933,5,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-05 17:54,marketplace-orders-to-netsuite,2000003933,6,SUCCESS,,
+2026-09-05 17:55,marketplace-orders-to-netsuite,2000003938,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-05 17:56,marketplace-orders-to-netsuite,2000003938,2,SUCCESS,,
+2026-09-05 20:03,marketplace-orders-to-netsuite,2000004037,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-05 20:05,marketplace-orders-to-netsuite,2000004037,2,SUCCESS,,
+2026-09-05 20:10,marketplace-orders-to-netsuite,2000004047,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-05 20:11,marketplace-orders-to-netsuite,2000004047,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-05 20:12,marketplace-orders-to-netsuite,2000004047,3,SUCCESS,,
+2026-09-05 20:51,marketplace-orders-to-netsuite,2000004069,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-05 20:52,marketplace-orders-to-netsuite,2000004069,2,SUCCESS,,
+2026-09-05 21:07,marketplace-orders-to-netsuite,2000004089,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-05 21:08,marketplace-orders-to-netsuite,2000004089,2,SUCCESS,,
+2026-09-05 23:37,marketplace-orders-to-netsuite,2000004222,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-05 23:38,marketplace-orders-to-netsuite,2000004222,2,SUCCESS,,
+2026-09-05 23:56,marketplace-orders-to-netsuite,2000004230,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-06 00:06,marketplace-orders-to-netsuite,2000004230,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-06 00:16,marketplace-orders-to-netsuite,2000004230,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-06 00:49,marketplace-orders-to-netsuite,2000004279,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-06 00:59,marketplace-orders-to-netsuite,2000004279,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-06 01:09,marketplace-orders-to-netsuite,2000004279,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-06 01:34,marketplace-orders-to-netsuite,2000004321,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-06 01:35,marketplace-orders-to-netsuite,2000004321,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-06 01:36,marketplace-orders-to-netsuite,2000004321,3,SUCCESS,,
+2026-09-06 02:39,marketplace-orders-to-netsuite,2000004374,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-06 02:49,marketplace-orders-to-netsuite,2000004374,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-06 02:51,marketplace-orders-to-netsuite,2000004377,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-06 02:52,marketplace-orders-to-netsuite,2000004377,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-06 02:53,marketplace-orders-to-netsuite,2000004377,3,SUCCESS,,
+2026-09-06 02:59,marketplace-orders-to-netsuite,2000004374,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-06 08:42,marketplace-orders-to-netsuite,2000004437,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-06 08:43,marketplace-orders-to-netsuite,2000004437,2,SUCCESS,,
+2026-09-06 11:20,marketplace-orders-to-netsuite,2000004506,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-06 11:30,marketplace-orders-to-netsuite,2000004506,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-06 11:40,marketplace-orders-to-netsuite,2000004506,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-06 11:41,marketplace-orders-to-netsuite,2000004527,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-06 11:42,marketplace-orders-to-netsuite,2000004527,2,SUCCESS,,
+2026-09-06 12:16,marketplace-orders-to-netsuite,2000004554,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-06 12:18,marketplace-orders-to-netsuite,2000004554,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-06 12:20,marketplace-orders-to-netsuite,2000004554,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-06 12:22,marketplace-orders-to-netsuite,2000004554,4,SUCCESS,,
+2026-09-06 12:38,marketplace-orders-to-netsuite,2000004580,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-06 12:40,marketplace-orders-to-netsuite,2000004580,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-06 12:42,marketplace-orders-to-netsuite,2000004580,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-06 12:44,marketplace-orders-to-netsuite,2000004580,4,SUCCESS,,
+2026-09-06 13:21,marketplace-orders-to-netsuite,2000004633,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-06 13:22,marketplace-orders-to-netsuite,2000004633,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-06 13:23,marketplace-orders-to-netsuite,2000004633,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-06 13:24,marketplace-orders-to-netsuite,2000004633,4,SUCCESS,,
+2026-09-06 13:59,marketplace-orders-to-netsuite,2000004677,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-06 14:01,marketplace-orders-to-netsuite,2000004677,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-06 14:03,marketplace-orders-to-netsuite,2000004677,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-06 14:05,marketplace-orders-to-netsuite,2000004677,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-06 14:07,marketplace-orders-to-netsuite,2000004677,5,SUCCESS,,
+2026-09-06 14:40,marketplace-orders-to-netsuite,2000004720,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-06 14:42,marketplace-orders-to-netsuite,2000004720,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-06 14:44,marketplace-orders-to-netsuite,2000004720,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-06 14:46,marketplace-orders-to-netsuite,2000004720,4,SUCCESS,,
+2026-09-06 15:06,marketplace-orders-to-netsuite,2000004763,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-06 15:07,marketplace-orders-to-netsuite,2000004763,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-06 15:08,marketplace-orders-to-netsuite,2000004763,3,SUCCESS,,
+2026-09-06 16:01,marketplace-orders-to-netsuite,2000004811,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-06 16:02,marketplace-orders-to-netsuite,2000004811,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-06 16:03,marketplace-orders-to-netsuite,2000004811,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-06 16:04,marketplace-orders-to-netsuite,2000004811,4,SUCCESS,,
+2026-09-06 16:50,marketplace-orders-to-netsuite,2000004858,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-06 16:51,marketplace-orders-to-netsuite,2000004858,2,SUCCESS,,
+2026-09-06 18:07,marketplace-orders-to-netsuite,2000004934,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-06 18:17,marketplace-orders-to-netsuite,2000004934,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-06 18:24,marketplace-orders-to-netsuite,2000004962,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-06 18:26,marketplace-orders-to-netsuite,2000004962,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-06 18:27,marketplace-orders-to-netsuite,2000004934,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-06 18:28,marketplace-orders-to-netsuite,2000004962,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-06 18:28,marketplace-orders-to-netsuite,2000004964,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-06 18:30,marketplace-orders-to-netsuite,2000004962,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-06 18:30,marketplace-orders-to-netsuite,2000004964,2,SUCCESS,,
+2026-09-06 18:32,marketplace-orders-to-netsuite,2000004962,5,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-06 18:34,marketplace-orders-to-netsuite,2000004962,6,SUCCESS,,
+2026-09-06 20:04,marketplace-orders-to-netsuite,2000005053,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-06 20:05,marketplace-orders-to-netsuite,2000005053,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-06 20:06,marketplace-orders-to-netsuite,2000005053,3,SUCCESS,,
+2026-09-06 23:12,marketplace-orders-to-netsuite,2000005213,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-06 23:22,marketplace-orders-to-netsuite,2000005213,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-06 23:24,marketplace-orders-to-netsuite,2000005225,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-06 23:28,marketplace-orders-to-netsuite,2000005234,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-06 23:29,marketplace-orders-to-netsuite,2000005234,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-06 23:30,marketplace-orders-to-netsuite,2000005234,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-06 23:31,marketplace-orders-to-netsuite,2000005234,4,SUCCESS,,
+2026-09-06 23:32,marketplace-orders-to-netsuite,2000005213,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-06 23:34,marketplace-orders-to-netsuite,2000005225,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-06 23:44,marketplace-orders-to-netsuite,2000005225,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-07 00:08,marketplace-orders-to-netsuite,2000005263,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-07 00:09,marketplace-orders-to-netsuite,2000005263,2,SUCCESS,,
+2026-09-07 00:41,marketplace-orders-to-netsuite,2000005295,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-07 00:42,marketplace-orders-to-netsuite,2000005295,2,SUCCESS,,
+2026-09-07 00:52,marketplace-orders-to-netsuite,2000005315,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-07 00:54,marketplace-orders-to-netsuite,2000005315,2,SUCCESS,,
+2026-09-07 03:56,marketplace-orders-to-netsuite,2000005425,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-07 03:57,marketplace-orders-to-netsuite,2000005425,2,SUCCESS,,
+2026-09-07 10:42,marketplace-orders-to-netsuite,2000005514,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-07 10:43,marketplace-orders-to-netsuite,2000005514,2,SUCCESS,,
+2026-09-07 11:58,marketplace-orders-to-netsuite,2000005585,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-07 11:59,marketplace-orders-to-netsuite,2000005585,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-07 12:00,marketplace-orders-to-netsuite,2000005585,3,SUCCESS,,
+2026-09-07 13:25,marketplace-orders-to-netsuite,2000005684,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-07 13:33,marketplace-orders-to-netsuite,2000005693,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-07 13:35,marketplace-orders-to-netsuite,2000005684,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-07 13:43,marketplace-orders-to-netsuite,2000005693,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-07 13:45,marketplace-orders-to-netsuite,2000005684,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-07 13:53,marketplace-orders-to-netsuite,2000005693,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-07 13:54,marketplace-orders-to-netsuite,2000005707,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-07 13:56,marketplace-orders-to-netsuite,2000005707,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-07 13:57,marketplace-orders-to-netsuite,2000005735,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-07 13:58,marketplace-orders-to-netsuite,2000005735,2,SUCCESS,,
+2026-09-07 13:58,marketplace-orders-to-netsuite,2000005707,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-07 14:00,marketplace-orders-to-netsuite,2000005707,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-07 14:02,marketplace-orders-to-netsuite,2000005707,5,SUCCESS,,
+2026-09-07 14:03,marketplace-orders-to-netsuite,2000005733,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-07 14:13,marketplace-orders-to-netsuite,2000005733,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-07 14:23,marketplace-orders-to-netsuite,2000005733,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-07 15:21,marketplace-orders-to-netsuite,2000005824,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-07 15:23,marketplace-orders-to-netsuite,2000005824,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-07 15:25,marketplace-orders-to-netsuite,2000005824,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-07 15:27,marketplace-orders-to-netsuite,2000005824,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-07 15:29,marketplace-orders-to-netsuite,2000005824,5,SUCCESS,,
+2026-09-07 15:58,marketplace-orders-to-netsuite,2000005861,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-07 16:08,marketplace-orders-to-netsuite,2000005861,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-07 16:13,marketplace-orders-to-netsuite,2000005875,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-07 16:15,marketplace-orders-to-netsuite,2000005875,2,SUCCESS,,
+2026-09-07 16:18,marketplace-orders-to-netsuite,2000005861,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-07 16:38,marketplace-orders-to-netsuite,2000005903,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-07 16:48,marketplace-orders-to-netsuite,2000005903,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-07 16:58,marketplace-orders-to-netsuite,2000005903,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-07 17:11,marketplace-orders-to-netsuite,2000005952,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-07 17:12,marketplace-orders-to-netsuite,2000005952,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-07 17:13,marketplace-orders-to-netsuite,2000005952,3,SUCCESS,,
+2026-09-07 17:42,marketplace-orders-to-netsuite,2000005980,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-07 17:43,marketplace-orders-to-netsuite,2000005980,2,SUCCESS,,
+2026-09-07 18:16,marketplace-orders-to-netsuite,2000006017,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-07 18:17,marketplace-orders-to-netsuite,2000006017,2,SUCCESS,,
+2026-09-07 20:08,marketplace-orders-to-netsuite,2000006104,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-07 20:09,marketplace-orders-to-netsuite,2000006108,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-07 20:09,marketplace-orders-to-netsuite,2000006104,2,SUCCESS,,
+2026-09-07 20:10,marketplace-orders-to-netsuite,2000006108,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-07 20:11,marketplace-orders-to-netsuite,2000006108,3,SUCCESS,,
+2026-09-07 20:50,marketplace-orders-to-netsuite,2000006150,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-07 21:00,marketplace-orders-to-netsuite,2000006150,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-07 21:03,marketplace-orders-to-netsuite,2000006181,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-07 21:05,marketplace-orders-to-netsuite,2000006181,2,SUCCESS,,
+2026-09-07 21:10,marketplace-orders-to-netsuite,2000006150,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-07 21:15,marketplace-orders-to-netsuite,2000006177,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-07 21:17,marketplace-orders-to-netsuite,2000006174,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-07 21:17,marketplace-orders-to-netsuite,2000006177,2,SUCCESS,,
+2026-09-07 21:18,marketplace-orders-to-netsuite,2000006174,2,SUCCESS,,
+2026-09-07 21:21,marketplace-orders-to-netsuite,2000006193,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-07 21:23,marketplace-orders-to-netsuite,2000006193,2,SUCCESS,,
+2026-09-07 21:47,marketplace-orders-to-netsuite,2000006214,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-07 21:57,marketplace-orders-to-netsuite,2000006214,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-07 22:07,marketplace-orders-to-netsuite,2000006214,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-07 22:29,marketplace-orders-to-netsuite,2000006259,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-07 22:31,marketplace-orders-to-netsuite,2000006259,2,SUCCESS,,
+2026-09-07 22:39,marketplace-orders-to-netsuite,2000006261,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-07 22:49,marketplace-orders-to-netsuite,2000006261,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-07 22:59,marketplace-orders-to-netsuite,2000006261,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-07 23:16,marketplace-orders-to-netsuite,2000006292,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-07 23:18,marketplace-orders-to-netsuite,2000006292,2,SUCCESS,,
+2026-09-07 23:23,marketplace-orders-to-netsuite,2000006303,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-07 23:33,marketplace-orders-to-netsuite,2000006303,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-07 23:42,marketplace-orders-to-netsuite,2000006319,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-07 23:43,marketplace-orders-to-netsuite,2000006319,2,SUCCESS,,
+2026-09-07 23:43,marketplace-orders-to-netsuite,2000006303,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-07 23:57,marketplace-orders-to-netsuite,2000006342,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-07 23:58,marketplace-orders-to-netsuite,2000006342,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-07 23:59,marketplace-orders-to-netsuite,2000006342,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 00:00,marketplace-orders-to-netsuite,2000006342,4,SUCCESS,,
+2026-09-08 00:08,marketplace-orders-to-netsuite,2000006336,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 00:10,marketplace-orders-to-netsuite,2000006336,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 00:12,marketplace-orders-to-netsuite,2000006336,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 00:14,marketplace-orders-to-netsuite,2000006336,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 00:16,marketplace-orders-to-netsuite,2000006336,5,SUCCESS,,
+2026-09-08 00:23,marketplace-orders-to-netsuite,2000006349,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 00:24,marketplace-orders-to-netsuite,2000006349,2,SUCCESS,,
+2026-09-08 00:28,marketplace-orders-to-netsuite,2000006367,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 00:30,marketplace-orders-to-netsuite,2000006367,2,SUCCESS,,
+2026-09-08 00:33,marketplace-orders-to-netsuite,2000006368,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 00:35,marketplace-orders-to-netsuite,2000006368,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 00:37,marketplace-orders-to-netsuite,2000006368,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 00:39,marketplace-orders-to-netsuite,2000006368,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 00:41,marketplace-orders-to-netsuite,2000006368,5,SUCCESS,,
+2026-09-08 00:52,marketplace-orders-to-netsuite,2000006375,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 00:54,marketplace-orders-to-netsuite,2000006375,2,SUCCESS,,
+2026-09-08 01:26,marketplace-orders-to-netsuite,2000006419,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-08 01:34,marketplace-orders-to-netsuite,2000006423,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 01:35,marketplace-orders-to-netsuite,2000006423,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 01:36,marketplace-orders-to-netsuite,2000006423,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 01:36,marketplace-orders-to-netsuite,2000006419,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-08 01:37,marketplace-orders-to-netsuite,2000006423,4,SUCCESS,,
+2026-09-08 01:45,marketplace-orders-to-netsuite,2000006443,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 01:46,marketplace-orders-to-netsuite,2000006443,2,SUCCESS,,
+2026-09-08 01:46,marketplace-orders-to-netsuite,2000006419,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-08 07:46,marketplace-orders-to-netsuite,2000006513,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 07:48,marketplace-orders-to-netsuite,2000006513,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 07:50,marketplace-orders-to-netsuite,2000006513,3,SUCCESS,,
+2026-09-08 08:27,marketplace-orders-to-netsuite,2000006521,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-08 08:37,marketplace-orders-to-netsuite,2000006521,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-08 08:47,marketplace-orders-to-netsuite,2000006521,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-08 09:01,marketplace-orders-to-netsuite,2000006529,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 09:02,marketplace-orders-to-netsuite,2000006529,2,SUCCESS,,
+2026-09-08 10:45,marketplace-orders-to-netsuite,2000006566,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 10:46,marketplace-orders-to-netsuite,2000006566,2,SUCCESS,,
+2026-09-08 13:42,marketplace-orders-to-netsuite,2000006745,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 13:43,marketplace-orders-to-netsuite,2000006745,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 13:44,marketplace-orders-to-netsuite,2000006745,3,SUCCESS,,
+2026-09-08 13:52,marketplace-orders-to-netsuite,2000006759,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 13:53,marketplace-orders-to-netsuite,2000006759,2,SUCCESS,,
+2026-09-08 15:14,marketplace-orders-to-netsuite,2000006852,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 15:16,marketplace-orders-to-netsuite,2000006852,2,SUCCESS,,
+2026-09-08 15:18,marketplace-orders-to-netsuite,2000006862,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-08 15:19,marketplace-orders-to-netsuite,2000006858,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 15:20,marketplace-orders-to-netsuite,2000006858,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 15:21,marketplace-orders-to-netsuite,2000006858,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 15:22,marketplace-orders-to-netsuite,2000006858,4,SUCCESS,,
+2026-09-08 15:28,marketplace-orders-to-netsuite,2000006862,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-08 15:31,marketplace-orders-to-netsuite,2000006864,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 15:33,marketplace-orders-to-netsuite,2000006864,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 15:35,marketplace-orders-to-netsuite,2000006864,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 15:37,marketplace-orders-to-netsuite,2000006864,4,SUCCESS,,
+2026-09-08 15:38,marketplace-orders-to-netsuite,2000006862,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-08 15:55,marketplace-orders-to-netsuite,2000006892,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 15:56,marketplace-orders-to-netsuite,2000006896,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 15:57,marketplace-orders-to-netsuite,2000006896,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 15:57,marketplace-orders-to-netsuite,2000006892,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 15:58,marketplace-orders-to-netsuite,2000006896,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 15:59,marketplace-orders-to-netsuite,2000006896,4,SUCCESS,,
+2026-09-08 15:59,marketplace-orders-to-netsuite,2000006892,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 16:01,marketplace-orders-to-netsuite,2000006892,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 16:03,marketplace-orders-to-netsuite,2000006892,5,SUCCESS,,
+2026-09-08 16:26,marketplace-orders-to-netsuite,2000006932,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 16:27,marketplace-orders-to-netsuite,2000006932,2,SUCCESS,,
+2026-09-08 16:49,marketplace-orders-to-netsuite,2000006953,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 16:50,marketplace-orders-to-netsuite,2000006953,2,SUCCESS,,
+2026-09-08 20:08,marketplace-orders-to-netsuite,2000007127,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-08 20:18,marketplace-orders-to-netsuite,2000007127,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-08 20:19,marketplace-orders-to-netsuite,2000007143,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 20:20,marketplace-orders-to-netsuite,2000007143,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 20:21,marketplace-orders-to-netsuite,2000007143,3,SUCCESS,,
+2026-09-08 20:28,marketplace-orders-to-netsuite,2000007127,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-08 21:17,marketplace-orders-to-netsuite,2000007185,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 21:18,marketplace-orders-to-netsuite,2000007185,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 21:19,marketplace-orders-to-netsuite,2000007185,3,SUCCESS,,
+2026-09-08 22:39,marketplace-orders-to-netsuite,2000007262,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 22:40,marketplace-orders-to-netsuite,2000007277,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 22:40,marketplace-orders-to-netsuite,2000007262,2,SUCCESS,,
+2026-09-08 22:41,marketplace-orders-to-netsuite,2000007277,2,SUCCESS,,
+2026-09-08 22:42,marketplace-orders-to-netsuite,2000007264,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-08 22:44,marketplace-orders-to-netsuite,2000007264,2,SUCCESS,,
+2026-09-08 22:52,marketplace-orders-to-netsuite,2000007278,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 22:53,marketplace-orders-to-netsuite,2000007278,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 22:54,marketplace-orders-to-netsuite,2000007278,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 22:55,marketplace-orders-to-netsuite,2000007278,4,SUCCESS,,
+2026-09-08 23:28,marketplace-orders-to-netsuite,2000007316,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 23:29,marketplace-orders-to-netsuite,2000007316,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 23:30,marketplace-orders-to-netsuite,2000007316,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-08 23:31,marketplace-orders-to-netsuite,2000007316,4,SUCCESS,,
+2026-09-08 23:31,marketplace-orders-to-netsuite,2000007317,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-08 23:41,marketplace-orders-to-netsuite,2000007317,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-08 23:51,marketplace-orders-to-netsuite,2000007317,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-09 00:14,marketplace-orders-to-netsuite,2000007360,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-09 00:15,marketplace-orders-to-netsuite,2000007360,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-09 00:16,marketplace-orders-to-netsuite,2000007360,3,SUCCESS,,
+2026-09-09 00:29,marketplace-orders-to-netsuite,2000007379,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-09 00:39,marketplace-orders-to-netsuite,2000007379,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-09 00:49,marketplace-orders-to-netsuite,2000007379,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-09 02:02,marketplace-orders-to-netsuite,2000007452,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 02:04,marketplace-orders-to-netsuite,2000007452,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 02:06,marketplace-orders-to-netsuite,2000007452,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 02:08,marketplace-orders-to-netsuite,2000007452,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 02:10,marketplace-orders-to-netsuite,2000007452,5,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 02:12,marketplace-orders-to-netsuite,2000007452,6,SUCCESS,,
+2026-09-09 02:13,marketplace-orders-to-netsuite,2000007457,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-09 02:14,marketplace-orders-to-netsuite,2000007457,2,SUCCESS,,
+2026-09-09 03:29,marketplace-orders-to-netsuite,2000007486,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-09 03:30,marketplace-orders-to-netsuite,2000007486,2,SUCCESS,,
+2026-09-09 08:00,marketplace-orders-to-netsuite,2000007514,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 08:02,marketplace-orders-to-netsuite,2000007514,2,SUCCESS,,
+2026-09-09 09:55,marketplace-orders-to-netsuite,2000007547,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-09 10:05,marketplace-orders-to-netsuite,2000007547,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-09 10:15,marketplace-orders-to-netsuite,2000007547,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-09 11:50,marketplace-orders-to-netsuite,2000007624,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 11:52,marketplace-orders-to-netsuite,2000007624,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 11:54,marketplace-orders-to-netsuite,2000007624,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 11:56,marketplace-orders-to-netsuite,2000007624,4,SUCCESS,,
+2026-09-09 12:15,marketplace-orders-to-netsuite,2000007637,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 12:17,marketplace-orders-to-netsuite,2000007637,2,SUCCESS,,
+2026-09-09 14:31,marketplace-orders-to-netsuite,2000007781,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 14:33,marketplace-orders-to-netsuite,2000007781,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 14:35,marketplace-orders-to-netsuite,2000007781,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 14:37,marketplace-orders-to-netsuite,2000007781,4,SUCCESS,,
+2026-09-09 14:44,marketplace-orders-to-netsuite,2000007789,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 14:46,marketplace-orders-to-netsuite,2000007789,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 14:48,marketplace-orders-to-netsuite,2000007789,3,SUCCESS,,
+2026-09-09 15:58,marketplace-orders-to-netsuite,2000007846,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-09 15:59,marketplace-orders-to-netsuite,2000007846,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-09 16:00,marketplace-orders-to-netsuite,2000007846,3,SUCCESS,,
+2026-09-09 17:24,marketplace-orders-to-netsuite,2000007924,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-09 17:25,marketplace-orders-to-netsuite,2000007924,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-09 17:26,marketplace-orders-to-netsuite,2000007924,3,SUCCESS,,
+2026-09-09 18:10,marketplace-orders-to-netsuite,2000007955,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-09 18:20,marketplace-orders-to-netsuite,2000007955,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-09 18:21,marketplace-orders-to-netsuite,2000007970,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 18:23,marketplace-orders-to-netsuite,2000007970,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 18:25,marketplace-orders-to-netsuite,2000007970,3,SUCCESS,,
+2026-09-09 18:30,marketplace-orders-to-netsuite,2000007955,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-09 18:48,marketplace-orders-to-netsuite,2000007988,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 18:50,marketplace-orders-to-netsuite,2000007988,2,SUCCESS,,
+2026-09-09 21:21,marketplace-orders-to-netsuite,2000008116,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-09 21:31,marketplace-orders-to-netsuite,2000008116,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-09 21:33,marketplace-orders-to-netsuite,2000008126,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 21:35,marketplace-orders-to-netsuite,2000008126,2,SUCCESS,,
+2026-09-09 21:37,marketplace-orders-to-netsuite,2000008135,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-09 21:38,marketplace-orders-to-netsuite,2000008135,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-09 21:39,marketplace-orders-to-netsuite,2000008135,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-09 21:40,marketplace-orders-to-netsuite,2000008135,4,SUCCESS,,
+2026-09-09 21:41,marketplace-orders-to-netsuite,2000008116,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-09 22:12,marketplace-orders-to-netsuite,2000008153,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-09 22:13,marketplace-orders-to-netsuite,2000008153,2,SUCCESS,,
+2026-09-09 22:27,marketplace-orders-to-netsuite,2000008172,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 22:29,marketplace-orders-to-netsuite,2000008172,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 22:31,marketplace-orders-to-netsuite,2000008172,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-09 22:33,marketplace-orders-to-netsuite,2000008172,4,SUCCESS,,
+2026-09-09 23:51,marketplace-orders-to-netsuite,2000008245,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-09 23:52,marketplace-orders-to-netsuite,2000008245,2,SUCCESS,,
+2026-09-10 04:19,marketplace-orders-to-netsuite,2000008382,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-10 04:29,marketplace-orders-to-netsuite,2000008382,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-10 04:39,marketplace-orders-to-netsuite,2000008382,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-10 09:06,marketplace-orders-to-netsuite,2000008411,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-10 09:08,marketplace-orders-to-netsuite,2000008411,2,SUCCESS,,
+2026-09-10 09:37,marketplace-orders-to-netsuite,2000008425,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-10 09:38,marketplace-orders-to-netsuite,2000008425,2,SUCCESS,,
+2026-09-10 11:20,marketplace-orders-to-netsuite,2000008472,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-10 11:22,marketplace-orders-to-netsuite,2000008472,2,SUCCESS,,
+2026-09-10 11:30,marketplace-orders-to-netsuite,2000008489,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-10 11:31,marketplace-orders-to-netsuite,2000008489,2,SUCCESS,,
+2026-09-10 11:49,marketplace-orders-to-netsuite,2000008502,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-10 11:55,marketplace-orders-to-netsuite,2000008522,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-10 11:57,marketplace-orders-to-netsuite,2000008522,2,SUCCESS,,
+2026-09-10 11:59,marketplace-orders-to-netsuite,2000008502,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-10 12:09,marketplace-orders-to-netsuite,2000008502,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-10 12:17,marketplace-orders-to-netsuite,2000008537,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-10 12:27,marketplace-orders-to-netsuite,2000008537,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-10 12:37,marketplace-orders-to-netsuite,2000008537,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-10 12:39,marketplace-orders-to-netsuite,2000008552,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-10 12:41,marketplace-orders-to-netsuite,2000008552,2,SUCCESS,,
+2026-09-10 12:53,marketplace-orders-to-netsuite,2000008568,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-10 12:54,marketplace-orders-to-netsuite,2000008568,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-10 12:55,marketplace-orders-to-netsuite,2000008568,3,SUCCESS,,
+2026-09-10 12:58,marketplace-orders-to-netsuite,2000008584,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-10 13:00,marketplace-orders-to-netsuite,2000008584,2,SUCCESS,,
+2026-09-10 13:07,marketplace-orders-to-netsuite,2000008596,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-10 13:09,marketplace-orders-to-netsuite,2000008596,2,SUCCESS,,
+2026-09-10 14:03,marketplace-orders-to-netsuite,2000008645,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-10 14:04,marketplace-orders-to-netsuite,2000008645,2,SUCCESS,,
+2026-09-10 14:23,marketplace-orders-to-netsuite,2000008673,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-10 14:33,marketplace-orders-to-netsuite,2000008673,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-10 14:43,marketplace-orders-to-netsuite,2000008673,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-10 15:00,marketplace-orders-to-netsuite,2000008715,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-10 15:10,marketplace-orders-to-netsuite,2000008715,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-10 15:16,marketplace-orders-to-netsuite,2000008728,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-10 15:17,marketplace-orders-to-netsuite,2000008728,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-10 15:18,marketplace-orders-to-netsuite,2000008728,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-10 15:19,marketplace-orders-to-netsuite,2000008728,4,SUCCESS,,
+2026-09-10 15:20,marketplace-orders-to-netsuite,2000008715,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-10 17:09,marketplace-orders-to-netsuite,2000008840,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-10 17:10,marketplace-orders-to-netsuite,2000008840,2,SUCCESS,,
+2026-09-10 18:03,marketplace-orders-to-netsuite,2000008895,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-10 18:13,marketplace-orders-to-netsuite,2000008895,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-10 18:23,marketplace-orders-to-netsuite,2000008895,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-10 22:00,marketplace-orders-to-netsuite,2000009089,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-10 22:01,marketplace-orders-to-netsuite,2000009089,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-10 22:02,marketplace-orders-to-netsuite,2000009089,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-10 22:03,marketplace-orders-to-netsuite,2000009089,4,SUCCESS,,
+2026-09-10 22:27,marketplace-orders-to-netsuite,2000009116,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-10 22:29,marketplace-orders-to-netsuite,2000009116,2,SUCCESS,,
+2026-09-10 22:42,marketplace-orders-to-netsuite,2000009133,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-10 22:43,marketplace-orders-to-netsuite,2000009135,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-10 22:52,marketplace-orders-to-netsuite,2000009133,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-10 22:53,marketplace-orders-to-netsuite,2000009135,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-10 23:02,marketplace-orders-to-netsuite,2000009133,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-10 23:03,marketplace-orders-to-netsuite,2000009135,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-10 23:34,marketplace-orders-to-netsuite,2000009181,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-10 23:44,marketplace-orders-to-netsuite,2000009181,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-10 23:54,marketplace-orders-to-netsuite,2000009181,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-11 00:03,marketplace-orders-to-netsuite,2000009204,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-11 00:13,marketplace-orders-to-netsuite,2000009204,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-11 00:23,marketplace-orders-to-netsuite,2000009204,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-11 02:22,marketplace-orders-to-netsuite,2000009299,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-11 02:23,marketplace-orders-to-netsuite,2000009299,2,SUCCESS,,
+2026-09-11 10:47,marketplace-orders-to-netsuite,2000009430,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-11 10:48,marketplace-orders-to-netsuite,2000009430,2,SUCCESS,,
+2026-09-11 12:43,marketplace-orders-to-netsuite,2000009525,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-11 12:53,marketplace-orders-to-netsuite,2000009525,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-11 12:57,marketplace-orders-to-netsuite,2000009544,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-11 12:58,marketplace-orders-to-netsuite,2000009544,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-11 12:59,marketplace-orders-to-netsuite,2000009544,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-11 13:00,marketplace-orders-to-netsuite,2000009544,4,SUCCESS,,
+2026-09-11 13:03,marketplace-orders-to-netsuite,2000009525,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-11 13:10,marketplace-orders-to-netsuite,2000009551,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-11 13:20,marketplace-orders-to-netsuite,2000009551,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-11 13:21,marketplace-orders-to-netsuite,2000009559,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-11 13:23,marketplace-orders-to-netsuite,2000009559,2,SUCCESS,,
+2026-09-11 13:30,marketplace-orders-to-netsuite,2000009551,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-11 13:39,marketplace-orders-to-netsuite,2000009586,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-11 13:40,marketplace-orders-to-netsuite,2000009586,2,SUCCESS,,
+2026-09-11 13:50,marketplace-orders-to-netsuite,2000009595,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-11 13:51,marketplace-orders-to-netsuite,2000009595,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-11 13:52,marketplace-orders-to-netsuite,2000009595,3,SUCCESS,,
+2026-09-11 14:22,marketplace-orders-to-netsuite,2000009641,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-11 14:23,marketplace-orders-to-netsuite,2000009641,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-11 14:24,marketplace-orders-to-netsuite,2000009641,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-11 14:25,marketplace-orders-to-netsuite,2000009641,4,SUCCESS,,
+2026-09-11 14:30,marketplace-orders-to-netsuite,2000009652,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-11 14:32,marketplace-orders-to-netsuite,2000009652,2,SUCCESS,,
+2026-09-11 15:34,marketplace-orders-to-netsuite,2000009706,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-11 15:35,marketplace-orders-to-netsuite,2000009706,2,SUCCESS,,
+2026-09-11 15:57,marketplace-orders-to-netsuite,2000009727,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-11 16:07,marketplace-orders-to-netsuite,2000009727,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-11 16:17,marketplace-orders-to-netsuite,2000009727,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-11 16:46,marketplace-orders-to-netsuite,2000009790,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-11 16:47,marketplace-orders-to-netsuite,2000009790,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-11 16:48,marketplace-orders-to-netsuite,2000009790,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-11 16:49,marketplace-orders-to-netsuite,2000009790,4,SUCCESS,,
+2026-09-11 17:02,marketplace-orders-to-netsuite,2000009795,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-11 17:12,marketplace-orders-to-netsuite,2000009795,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-11 17:22,marketplace-orders-to-netsuite,2000009795,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-11 18:56,marketplace-orders-to-netsuite,2000009897,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-11 19:06,marketplace-orders-to-netsuite,2000009897,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-11 19:11,marketplace-orders-to-netsuite,2000009914,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-11 19:14,marketplace-orders-to-netsuite,2000009921,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-11 19:16,marketplace-orders-to-netsuite,2000009897,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-11 19:21,marketplace-orders-to-netsuite,2000009914,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-11 19:22,marketplace-orders-to-netsuite,2000009930,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-11 19:24,marketplace-orders-to-netsuite,2000009930,2,SUCCESS,,
+2026-09-11 19:24,marketplace-orders-to-netsuite,2000009921,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-11 19:31,marketplace-orders-to-netsuite,2000009914,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-11 19:34,marketplace-orders-to-netsuite,2000009921,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-11 19:43,marketplace-orders-to-netsuite,2000009948,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-11 19:44,marketplace-orders-to-netsuite,2000009948,2,SUCCESS,,
+2026-09-11 19:52,marketplace-orders-to-netsuite,2000009956,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-11 19:53,marketplace-orders-to-netsuite,2000009956,2,SUCCESS,,
+2026-09-11 20:23,marketplace-orders-to-netsuite,2000009985,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-11 20:33,marketplace-orders-to-netsuite,2000009985,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-11 20:43,marketplace-orders-to-netsuite,2000009985,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-11 20:44,marketplace-orders-to-netsuite,2000010003,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-11 20:45,marketplace-orders-to-netsuite,2000010003,2,SUCCESS,,
+2026-09-11 22:27,marketplace-orders-to-netsuite,2000010100,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-11 22:37,marketplace-orders-to-netsuite,2000010100,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-11 22:47,marketplace-orders-to-netsuite,2000010100,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-11 23:43,marketplace-orders-to-netsuite,2000010197,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-11 23:53,marketplace-orders-to-netsuite,2000010197,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-12 00:03,marketplace-orders-to-netsuite,2000010197,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-12 12:39,marketplace-orders-to-netsuite,2000010544,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-12 12:41,marketplace-orders-to-netsuite,2000010544,2,SUCCESS,,
+2026-09-12 13:34,marketplace-orders-to-netsuite,2000010588,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-12 13:44,marketplace-orders-to-netsuite,2000010588,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-12 13:49,marketplace-orders-to-netsuite,2000010604,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-12 13:54,marketplace-orders-to-netsuite,2000010588,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-12 13:59,marketplace-orders-to-netsuite,2000010604,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-12 14:09,marketplace-orders-to-netsuite,2000010604,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-12 14:56,marketplace-orders-to-netsuite,2000010676,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-12 15:06,marketplace-orders-to-netsuite,2000010676,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-12 15:16,marketplace-orders-to-netsuite,2000010705,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-12 15:16,marketplace-orders-to-netsuite,2000010676,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-12 15:26,marketplace-orders-to-netsuite,2000010705,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-12 15:36,marketplace-orders-to-netsuite,2000010705,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-12 15:37,marketplace-orders-to-netsuite,2000010724,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-12 15:39,marketplace-orders-to-netsuite,2000010724,2,SUCCESS,,
+2026-09-12 20:07,marketplace-orders-to-netsuite,2000010952,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-12 20:08,marketplace-orders-to-netsuite,2000010952,2,SUCCESS,,
+2026-09-12 20:40,marketplace-orders-to-netsuite,2000010980,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-12 20:42,marketplace-orders-to-netsuite,2000010980,2,SUCCESS,,
+2026-09-12 21:12,marketplace-orders-to-netsuite,2000011014,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-12 21:22,marketplace-orders-to-netsuite,2000011025,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-12 21:22,marketplace-orders-to-netsuite,2000011014,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-12 21:23,marketplace-orders-to-netsuite,2000011025,2,SUCCESS,,
+2026-09-12 21:32,marketplace-orders-to-netsuite,2000011014,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-12 21:58,marketplace-orders-to-netsuite,2000011054,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-12 21:59,marketplace-orders-to-netsuite,2000011054,2,SUCCESS,,
+2026-09-12 22:28,marketplace-orders-to-netsuite,2000011080,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-12 22:30,marketplace-orders-to-netsuite,2000011090,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-12 22:32,marketplace-orders-to-netsuite,2000011090,2,SUCCESS,,
+2026-09-12 22:38,marketplace-orders-to-netsuite,2000011080,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-12 22:48,marketplace-orders-to-netsuite,2000011080,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-12 23:41,marketplace-orders-to-netsuite,2000011143,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-12 23:51,marketplace-orders-to-netsuite,2000011143,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-12 23:59,marketplace-orders-to-netsuite,2000011159,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-13 00:01,marketplace-orders-to-netsuite,2000011159,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-13 00:01,marketplace-orders-to-netsuite,2000011143,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-13 00:03,marketplace-orders-to-netsuite,2000011159,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-13 00:05,marketplace-orders-to-netsuite,2000011159,4,SUCCESS,,
+2026-09-13 00:42,marketplace-orders-to-netsuite,2000011220,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 00:43,marketplace-orders-to-netsuite,2000011220,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 00:44,marketplace-orders-to-netsuite,2000011220,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 00:45,marketplace-orders-to-netsuite,2000011220,4,SUCCESS,,
+2026-09-13 08:05,marketplace-orders-to-netsuite,2000011334,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 08:06,marketplace-orders-to-netsuite,2000011334,2,SUCCESS,,
+2026-09-13 08:23,marketplace-orders-to-netsuite,2000011335,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-13 08:25,marketplace-orders-to-netsuite,2000011335,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-13 08:27,marketplace-orders-to-netsuite,2000011335,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-13 08:29,marketplace-orders-to-netsuite,2000011335,4,SUCCESS,,
+2026-09-13 09:45,marketplace-orders-to-netsuite,2000011353,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 09:46,marketplace-orders-to-netsuite,2000011353,2,SUCCESS,,
+2026-09-13 09:53,marketplace-orders-to-netsuite,2000011359,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 09:54,marketplace-orders-to-netsuite,2000011359,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 09:55,marketplace-orders-to-netsuite,2000011359,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 09:56,marketplace-orders-to-netsuite,2000011359,4,SUCCESS,,
+2026-09-13 10:29,marketplace-orders-to-netsuite,2000011385,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 10:30,marketplace-orders-to-netsuite,2000011385,2,SUCCESS,,
+2026-09-13 11:30,marketplace-orders-to-netsuite,2000011427,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-13 11:32,marketplace-orders-to-netsuite,2000011427,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-13 11:33,marketplace-orders-to-netsuite,2000011418,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-13 11:34,marketplace-orders-to-netsuite,2000011427,3,SUCCESS,,
+2026-09-13 11:35,marketplace-orders-to-netsuite,2000011418,2,SUCCESS,,
+2026-09-13 13:38,marketplace-orders-to-netsuite,2000011544,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 13:39,marketplace-orders-to-netsuite,2000011544,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 13:40,marketplace-orders-to-netsuite,2000011544,3,SUCCESS,,
+2026-09-13 13:48,marketplace-orders-to-netsuite,2000011557,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 13:49,marketplace-orders-to-netsuite,2000011557,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 13:50,marketplace-orders-to-netsuite,2000011557,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 13:51,marketplace-orders-to-netsuite,2000011557,4,SUCCESS,,
+2026-09-13 14:23,marketplace-orders-to-netsuite,2000011617,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-13 14:25,marketplace-orders-to-netsuite,2000011617,2,SUCCESS,,
+2026-09-13 15:33,marketplace-orders-to-netsuite,2000011680,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-13 15:35,marketplace-orders-to-netsuite,2000011680,2,SUCCESS,,
+2026-09-13 17:57,marketplace-orders-to-netsuite,2000011815,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-13 17:59,marketplace-orders-to-netsuite,2000011815,2,SUCCESS,,
+2026-09-13 18:20,marketplace-orders-to-netsuite,2000011829,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 18:21,marketplace-orders-to-netsuite,2000011829,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 18:22,marketplace-orders-to-netsuite,2000011829,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 18:23,marketplace-orders-to-netsuite,2000011829,4,SUCCESS,,
+2026-09-13 19:11,marketplace-orders-to-netsuite,2000011873,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 19:12,marketplace-orders-to-netsuite,2000011873,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 19:13,marketplace-orders-to-netsuite,2000011873,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 19:14,marketplace-orders-to-netsuite,2000011873,4,SUCCESS,,
+2026-09-13 19:35,marketplace-orders-to-netsuite,2000011892,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-13 19:45,marketplace-orders-to-netsuite,2000011892,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-13 19:55,marketplace-orders-to-netsuite,2000011892,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-13 21:11,marketplace-orders-to-netsuite,2000011963,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 21:12,marketplace-orders-to-netsuite,2000011963,2,SUCCESS,,
+2026-09-13 21:12,marketplace-orders-to-netsuite,2000011966,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-13 21:14,marketplace-orders-to-netsuite,2000011966,2,SUCCESS,,
+2026-09-13 21:47,marketplace-orders-to-netsuite,2000011993,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 21:48,marketplace-orders-to-netsuite,2000011993,2,SUCCESS,,
+2026-09-13 22:35,marketplace-orders-to-netsuite,2000012038,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-13 22:36,marketplace-orders-to-netsuite,2000012038,2,SUCCESS,,
+2026-09-13 23:56,marketplace-orders-to-netsuite,2000012092,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-13 23:59,marketplace-orders-to-netsuite,2000012090,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-14 00:00,marketplace-orders-to-netsuite,2000012090,2,SUCCESS,,
+2026-09-14 00:06,marketplace-orders-to-netsuite,2000012092,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-14 00:13,marketplace-orders-to-netsuite,2000012105,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-14 00:15,marketplace-orders-to-netsuite,2000012105,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-14 00:16,marketplace-orders-to-netsuite,2000012092,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-14 00:17,marketplace-orders-to-netsuite,2000012105,3,SUCCESS,,
+2026-09-14 00:31,marketplace-orders-to-netsuite,2000012114,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-14 00:32,marketplace-orders-to-netsuite,2000012114,2,SUCCESS,,
+2026-09-14 09:33,marketplace-orders-to-netsuite,2000012262,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-14 09:35,marketplace-orders-to-netsuite,2000012262,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-14 09:37,marketplace-orders-to-netsuite,2000012262,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-14 09:39,marketplace-orders-to-netsuite,2000012262,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-14 09:41,marketplace-orders-to-netsuite,2000012262,5,SUCCESS,,
+2026-09-14 10:04,marketplace-orders-to-netsuite,2000012270,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-14 10:14,marketplace-orders-to-netsuite,2000012270,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-14 10:24,marketplace-orders-to-netsuite,2000012270,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-14 10:51,marketplace-orders-to-netsuite,2000012285,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-14 11:01,marketplace-orders-to-netsuite,2000012285,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-14 11:11,marketplace-orders-to-netsuite,2000012285,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-14 11:55,marketplace-orders-to-netsuite,2000012338,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-14 11:56,marketplace-orders-to-netsuite,2000012338,2,SUCCESS,,
+2026-09-14 12:53,marketplace-orders-to-netsuite,2000012384,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-14 12:54,marketplace-orders-to-netsuite,2000012384,2,SUCCESS,,
+2026-09-14 14:07,marketplace-orders-to-netsuite,2000012434,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-14 14:08,marketplace-orders-to-netsuite,2000012434,2,SUCCESS,,
+2026-09-14 15:34,marketplace-orders-to-netsuite,2000012531,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-14 15:44,marketplace-orders-to-netsuite,2000012531,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-14 15:54,marketplace-orders-to-netsuite,2000012531,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-14 17:42,marketplace-orders-to-netsuite,2000012647,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-14 17:44,marketplace-orders-to-netsuite,2000012647,2,SUCCESS,,
+2026-09-14 17:57,marketplace-orders-to-netsuite,2000012651,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-14 17:58,marketplace-orders-to-netsuite,2000012651,2,SUCCESS,,
+2026-09-14 18:24,marketplace-orders-to-netsuite,2000012675,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-14 18:26,marketplace-orders-to-netsuite,2000012675,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-14 18:28,marketplace-orders-to-netsuite,2000012675,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-14 18:30,marketplace-orders-to-netsuite,2000012675,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-14 18:32,marketplace-orders-to-netsuite,2000012675,5,SUCCESS,,
+2026-09-14 19:04,marketplace-orders-to-netsuite,2000012702,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-14 19:06,marketplace-orders-to-netsuite,2000012702,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-14 19:08,marketplace-orders-to-netsuite,2000012719,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-14 19:08,marketplace-orders-to-netsuite,2000012702,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-14 19:09,marketplace-orders-to-netsuite,2000012719,2,SUCCESS,,
+2026-09-14 19:10,marketplace-orders-to-netsuite,2000012702,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-14 19:12,marketplace-orders-to-netsuite,2000012702,5,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-14 19:14,marketplace-orders-to-netsuite,2000012702,6,SUCCESS,,
+2026-09-14 20:09,marketplace-orders-to-netsuite,2000012761,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-14 20:10,marketplace-orders-to-netsuite,2000012761,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-14 20:11,marketplace-orders-to-netsuite,2000012761,3,SUCCESS,,
+2026-09-14 20:26,marketplace-orders-to-netsuite,2000012780,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-14 20:36,marketplace-orders-to-netsuite,2000012780,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-14 20:46,marketplace-orders-to-netsuite,2000012780,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-14 22:11,marketplace-orders-to-netsuite,2000012851,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-14 22:21,marketplace-orders-to-netsuite,2000012851,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-14 22:31,marketplace-orders-to-netsuite,2000012851,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-14 23:59,marketplace-orders-to-netsuite,2000012949,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-15 00:00,marketplace-orders-to-netsuite,2000012949,2,SUCCESS,,
+2026-09-15 01:25,marketplace-orders-to-netsuite,2000013023,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-15 01:26,marketplace-orders-to-netsuite,2000013023,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-15 01:27,marketplace-orders-to-netsuite,2000013023,3,SUCCESS,,
+2026-09-15 08:29,marketplace-orders-to-netsuite,2000013121,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 08:31,marketplace-orders-to-netsuite,2000013121,2,SUCCESS,,
+2026-09-15 08:56,marketplace-orders-to-netsuite,2000013123,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 08:58,marketplace-orders-to-netsuite,2000013123,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 09:00,marketplace-orders-to-netsuite,2000013123,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 09:02,marketplace-orders-to-netsuite,2000013123,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 09:04,marketplace-orders-to-netsuite,2000013123,5,SUCCESS,,
+2026-09-15 10:18,marketplace-orders-to-netsuite,2000013166,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 10:20,marketplace-orders-to-netsuite,2000013166,2,SUCCESS,,
+2026-09-15 11:40,marketplace-orders-to-netsuite,2000013215,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 11:42,marketplace-orders-to-netsuite,2000013215,2,SUCCESS,,
+2026-09-15 12:05,marketplace-orders-to-netsuite,2000013225,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-15 12:15,marketplace-orders-to-netsuite,2000013225,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-15 12:25,marketplace-orders-to-netsuite,2000013225,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-15 12:55,marketplace-orders-to-netsuite,2000013278,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-15 12:56,marketplace-orders-to-netsuite,2000013278,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-15 12:57,marketplace-orders-to-netsuite,2000013278,3,SUCCESS,,
+2026-09-15 12:59,marketplace-orders-to-netsuite,2000013270,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-15 13:00,marketplace-orders-to-netsuite,2000013270,2,SUCCESS,,
+2026-09-15 13:13,marketplace-orders-to-netsuite,2000013295,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 13:15,marketplace-orders-to-netsuite,2000013295,2,SUCCESS,,
+2026-09-15 13:52,marketplace-orders-to-netsuite,2000013324,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-15 13:53,marketplace-orders-to-netsuite,2000013324,2,SUCCESS,,
+2026-09-15 13:54,marketplace-orders-to-netsuite,2000013328,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 13:56,marketplace-orders-to-netsuite,2000013328,2,SUCCESS,,
+2026-09-15 14:16,marketplace-orders-to-netsuite,2000013358,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-15 14:17,marketplace-orders-to-netsuite,2000013358,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-15 14:18,marketplace-orders-to-netsuite,2000013358,3,SUCCESS,,
+2026-09-15 15:39,marketplace-orders-to-netsuite,2000013411,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 15:41,marketplace-orders-to-netsuite,2000013411,2,SUCCESS,,
+2026-09-15 16:05,marketplace-orders-to-netsuite,2000013444,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-15 16:06,marketplace-orders-to-netsuite,2000013454,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-15 16:07,marketplace-orders-to-netsuite,2000013454,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-15 16:08,marketplace-orders-to-netsuite,2000013454,3,SUCCESS,,
+2026-09-15 16:15,marketplace-orders-to-netsuite,2000013444,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-15 16:18,marketplace-orders-to-netsuite,2000013455,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 16:18,marketplace-orders-to-netsuite,2000013463,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 16:20,marketplace-orders-to-netsuite,2000013455,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 16:20,marketplace-orders-to-netsuite,2000013463,2,SUCCESS,,
+2026-09-15 16:22,marketplace-orders-to-netsuite,2000013455,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 16:24,marketplace-orders-to-netsuite,2000013455,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 16:25,marketplace-orders-to-netsuite,2000013444,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-15 16:26,marketplace-orders-to-netsuite,2000013455,5,SUCCESS,,
+2026-09-15 16:32,marketplace-orders-to-netsuite,2000013469,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-15 16:33,marketplace-orders-to-netsuite,2000013469,2,SUCCESS,,
+2026-09-15 18:12,marketplace-orders-to-netsuite,2000013544,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-15 18:22,marketplace-orders-to-netsuite,2000013544,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-15 18:25,marketplace-orders-to-netsuite,2000013546,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-15 18:26,marketplace-orders-to-netsuite,2000013546,2,SUCCESS,,
+2026-09-15 18:32,marketplace-orders-to-netsuite,2000013544,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-15 18:44,marketplace-orders-to-netsuite,2000013580,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 18:46,marketplace-orders-to-netsuite,2000013580,2,SUCCESS,,
+2026-09-15 19:45,marketplace-orders-to-netsuite,2000013621,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-15 19:46,marketplace-orders-to-netsuite,2000013621,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-15 19:47,marketplace-orders-to-netsuite,2000013621,3,SUCCESS,,
+2026-09-15 20:02,marketplace-orders-to-netsuite,2000013643,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-15 20:03,marketplace-orders-to-netsuite,2000013643,2,SUCCESS,,
+2026-09-15 20:18,marketplace-orders-to-netsuite,2000013661,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-15 20:19,marketplace-orders-to-netsuite,2000013661,2,SUCCESS,,
+2026-09-15 20:25,marketplace-orders-to-netsuite,2000013662,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-15 20:35,marketplace-orders-to-netsuite,2000013662,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-15 20:45,marketplace-orders-to-netsuite,2000013662,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-15 21:27,marketplace-orders-to-netsuite,2000013723,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-15 21:28,marketplace-orders-to-netsuite,2000013723,2,SUCCESS,,
+2026-09-15 21:57,marketplace-orders-to-netsuite,2000013745,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-15 21:58,marketplace-orders-to-netsuite,2000013745,2,SUCCESS,,
+2026-09-15 22:14,marketplace-orders-to-netsuite,2000013751,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 22:16,marketplace-orders-to-netsuite,2000013751,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 22:18,marketplace-orders-to-netsuite,2000013751,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 22:20,marketplace-orders-to-netsuite,2000013751,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 22:21,marketplace-orders-to-netsuite,2000013763,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-15 22:22,marketplace-orders-to-netsuite,2000013751,5,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-15 22:24,marketplace-orders-to-netsuite,2000013751,6,SUCCESS,,
+2026-09-15 22:31,marketplace-orders-to-netsuite,2000013763,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-15 22:41,marketplace-orders-to-netsuite,2000013763,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-16 00:12,marketplace-orders-to-netsuite,2000013845,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 00:13,marketplace-orders-to-netsuite,2000013845,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 00:14,marketplace-orders-to-netsuite,2000013845,3,SUCCESS,,
+2026-09-16 00:49,marketplace-orders-to-netsuite,2000013869,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 00:49,marketplace-orders-to-netsuite,2000013885,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-16 00:50,marketplace-orders-to-netsuite,2000013869,2,SUCCESS,,
+2026-09-16 00:51,marketplace-orders-to-netsuite,2000013885,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-16 00:53,marketplace-orders-to-netsuite,2000013885,3,SUCCESS,,
+2026-09-16 01:04,marketplace-orders-to-netsuite,2000013881,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-16 01:06,marketplace-orders-to-netsuite,2000013881,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-16 01:08,marketplace-orders-to-netsuite,2000013881,3,SUCCESS,,
+2026-09-16 02:42,marketplace-orders-to-netsuite,2000013952,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-16 02:52,marketplace-orders-to-netsuite,2000013952,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-16 03:02,marketplace-orders-to-netsuite,2000013952,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-16 05:17,marketplace-orders-to-netsuite,2000013986,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-16 05:19,marketplace-orders-to-netsuite,2000013986,2,SUCCESS,,
+2026-09-16 10:34,marketplace-orders-to-netsuite,2000014052,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-16 10:44,marketplace-orders-to-netsuite,2000014052,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-16 10:54,marketplace-orders-to-netsuite,2000014052,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-16 11:45,marketplace-orders-to-netsuite,2000014092,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-16 11:47,marketplace-orders-to-netsuite,2000014104,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-16 11:49,marketplace-orders-to-netsuite,2000014104,2,SUCCESS,,
+2026-09-16 11:55,marketplace-orders-to-netsuite,2000014092,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-16 12:05,marketplace-orders-to-netsuite,2000014092,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-16 12:31,marketplace-orders-to-netsuite,2000014134,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 12:32,marketplace-orders-to-netsuite,2000014134,2,SUCCESS,,
+2026-09-16 12:52,marketplace-orders-to-netsuite,2000014144,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-16 12:54,marketplace-orders-to-netsuite,2000014144,2,SUCCESS,,
+2026-09-16 13:26,marketplace-orders-to-netsuite,2000014184,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 13:27,marketplace-orders-to-netsuite,2000014184,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 13:28,marketplace-orders-to-netsuite,2000014184,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 13:29,marketplace-orders-to-netsuite,2000014184,4,SUCCESS,,
+2026-09-16 13:30,marketplace-orders-to-netsuite,2000014191,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 13:31,marketplace-orders-to-netsuite,2000014191,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 13:32,marketplace-orders-to-netsuite,2000014191,3,SUCCESS,,
+2026-09-16 13:49,marketplace-orders-to-netsuite,2000014201,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-16 13:51,marketplace-orders-to-netsuite,2000014201,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-16 13:53,marketplace-orders-to-netsuite,2000014201,3,SUCCESS,,
+2026-09-16 14:21,marketplace-orders-to-netsuite,2000014245,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-16 14:31,marketplace-orders-to-netsuite,2000014245,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-16 14:41,marketplace-orders-to-netsuite,2000014245,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-16 15:11,marketplace-orders-to-netsuite,2000014279,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-16 15:13,marketplace-orders-to-netsuite,2000014279,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-16 15:15,marketplace-orders-to-netsuite,2000014279,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-16 15:17,marketplace-orders-to-netsuite,2000014279,4,SUCCESS,,
+2026-09-16 15:42,marketplace-orders-to-netsuite,2000014321,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 15:43,marketplace-orders-to-netsuite,2000014321,2,SUCCESS,,
+2026-09-16 16:05,marketplace-orders-to-netsuite,2000014338,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-16 16:07,marketplace-orders-to-netsuite,2000014338,2,SUCCESS,,
+2026-09-16 16:21,marketplace-orders-to-netsuite,2000014359,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 16:22,marketplace-orders-to-netsuite,2000014359,2,SUCCESS,,
+2026-09-16 18:27,marketplace-orders-to-netsuite,2000014427,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-16 18:29,marketplace-orders-to-netsuite,2000014427,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-16 18:31,marketplace-orders-to-netsuite,2000014427,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-16 18:33,marketplace-orders-to-netsuite,2000014427,4,SUCCESS,,
+2026-09-16 18:50,marketplace-orders-to-netsuite,2000014454,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-16 18:52,marketplace-orders-to-netsuite,2000014454,2,SUCCESS,,
+2026-09-16 19:22,marketplace-orders-to-netsuite,2000014477,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-16 19:24,marketplace-orders-to-netsuite,2000014477,2,SUCCESS,,
+2026-09-16 19:35,marketplace-orders-to-netsuite,2000014485,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 19:36,marketplace-orders-to-netsuite,2000014485,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 19:37,marketplace-orders-to-netsuite,2000014485,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 19:38,marketplace-orders-to-netsuite,2000014485,4,SUCCESS,,
+2026-09-16 20:41,marketplace-orders-to-netsuite,2000014548,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 20:42,marketplace-orders-to-netsuite,2000014548,2,SUCCESS,,
+2026-09-16 21:00,marketplace-orders-to-netsuite,2000014556,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-16 21:02,marketplace-orders-to-netsuite,2000014556,2,SUCCESS,,
+2026-09-16 21:05,marketplace-orders-to-netsuite,2000014561,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 21:06,marketplace-orders-to-netsuite,2000014561,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 21:07,marketplace-orders-to-netsuite,2000014561,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 21:08,marketplace-orders-to-netsuite,2000014561,4,SUCCESS,,
+2026-09-16 21:54,marketplace-orders-to-netsuite,2000014587,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 21:55,marketplace-orders-to-netsuite,2000014587,2,SUCCESS,,
+2026-09-16 22:04,marketplace-orders-to-netsuite,2000014597,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 22:05,marketplace-orders-to-netsuite,2000014597,2,SUCCESS,,
+2026-09-16 22:22,marketplace-orders-to-netsuite,2000014628,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-16 22:32,marketplace-orders-to-netsuite,2000014628,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-16 22:42,marketplace-orders-to-netsuite,2000014628,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-16 23:47,marketplace-orders-to-netsuite,2000014687,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-16 23:48,marketplace-orders-to-netsuite,2000014687,2,SUCCESS,,
+2026-09-17 00:22,marketplace-orders-to-netsuite,2000014725,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-17 00:24,marketplace-orders-to-netsuite,2000014732,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 00:26,marketplace-orders-to-netsuite,2000014732,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 00:28,marketplace-orders-to-netsuite,2000014732,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 00:29,marketplace-orders-to-netsuite,2000014724,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 00:30,marketplace-orders-to-netsuite,2000014732,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 00:31,marketplace-orders-to-netsuite,2000014724,2,SUCCESS,,
+2026-09-17 00:32,marketplace-orders-to-netsuite,2000014732,5,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 00:32,marketplace-orders-to-netsuite,2000014725,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-17 00:34,marketplace-orders-to-netsuite,2000014732,6,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 00:36,marketplace-orders-to-netsuite,2000014732,7,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 00:38,marketplace-orders-to-netsuite,2000014732,8,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 00:39,marketplace-orders-to-netsuite,2000014754,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 00:40,marketplace-orders-to-netsuite,2000014732,9,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 00:41,marketplace-orders-to-netsuite,2000014754,2,SUCCESS,,
+2026-09-17 00:42,marketplace-orders-to-netsuite,2000014732,10,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 00:42,marketplace-orders-to-netsuite,2000014725,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-17 00:44,marketplace-orders-to-netsuite,2000014732,11,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 00:46,marketplace-orders-to-netsuite,2000014732,12,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 00:48,marketplace-orders-to-netsuite,2000014732,13,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 00:50,marketplace-orders-to-netsuite,2000014732,14,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 00:52,marketplace-orders-to-netsuite,2000014732,15,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 00:54,marketplace-orders-to-netsuite,2000014732,16,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 00:56,marketplace-orders-to-netsuite,2000014732,17,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 00:58,marketplace-orders-to-netsuite,2000014732,18,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:00,marketplace-orders-to-netsuite,2000014732,19,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:02,marketplace-orders-to-netsuite,2000014732,20,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:04,marketplace-orders-to-netsuite,2000014732,21,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:06,marketplace-orders-to-netsuite,2000014732,22,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:08,marketplace-orders-to-netsuite,2000014732,23,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:10,marketplace-orders-to-netsuite,2000014732,24,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:12,marketplace-orders-to-netsuite,2000014732,25,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:14,marketplace-orders-to-netsuite,2000014732,26,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:16,marketplace-orders-to-netsuite,2000014732,27,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:18,marketplace-orders-to-netsuite,2000014732,28,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:20,marketplace-orders-to-netsuite,2000014732,29,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:22,marketplace-orders-to-netsuite,2000014732,30,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:24,marketplace-orders-to-netsuite,2000014732,31,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:26,marketplace-orders-to-netsuite,2000014732,32,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:28,marketplace-orders-to-netsuite,2000014732,33,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:30,marketplace-orders-to-netsuite,2000014732,34,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:32,marketplace-orders-to-netsuite,2000014732,35,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:32,marketplace-orders-to-netsuite,2000014790,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-17 01:34,marketplace-orders-to-netsuite,2000014732,36,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:36,marketplace-orders-to-netsuite,2000014732,37,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:38,marketplace-orders-to-netsuite,2000014799,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-17 01:38,marketplace-orders-to-netsuite,2000014732,38,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 01:39,marketplace-orders-to-netsuite,2000014799,2,SUCCESS,,
+2026-09-17 01:40,marketplace-orders-to-netsuite,2000014732,39,SUCCESS,,
+2026-09-17 01:42,marketplace-orders-to-netsuite,2000014790,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-17 01:52,marketplace-orders-to-netsuite,2000014790,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-17 02:02,marketplace-orders-to-netsuite,2000014807,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 02:04,marketplace-orders-to-netsuite,2000014807,2,SUCCESS,,
+2026-09-17 03:38,marketplace-orders-to-netsuite,2000014841,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-17 03:39,marketplace-orders-to-netsuite,2000014841,2,SUCCESS,,
+2026-09-17 09:49,marketplace-orders-to-netsuite,2000014891,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-17 09:50,marketplace-orders-to-netsuite,2000014891,2,SUCCESS,,
+2026-09-17 11:10,marketplace-orders-to-netsuite,2000014935,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-17 11:20,marketplace-orders-to-netsuite,2000014935,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-17 11:25,marketplace-orders-to-netsuite,2000014947,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-17 11:26,marketplace-orders-to-netsuite,2000014947,2,SUCCESS,,
+2026-09-17 11:30,marketplace-orders-to-netsuite,2000014935,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-17 11:44,marketplace-orders-to-netsuite,2000014955,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 11:46,marketplace-orders-to-netsuite,2000014955,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 11:48,marketplace-orders-to-netsuite,2000014955,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 11:50,marketplace-orders-to-netsuite,2000014955,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 11:52,marketplace-orders-to-netsuite,2000014955,5,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 11:54,marketplace-orders-to-netsuite,2000014955,6,SUCCESS,,
+2026-09-17 11:58,marketplace-orders-to-netsuite,2000014968,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 12:00,marketplace-orders-to-netsuite,2000014968,2,SUCCESS,,
+2026-09-17 12:04,marketplace-orders-to-netsuite,2000014972,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-17 12:14,marketplace-orders-to-netsuite,2000014976,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-17 12:14,marketplace-orders-to-netsuite,2000014972,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-17 12:20,marketplace-orders-to-netsuite,2000014977,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-17 12:21,marketplace-orders-to-netsuite,2000014977,2,SUCCESS,,
+2026-09-17 12:24,marketplace-orders-to-netsuite,2000014976,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-17 12:24,marketplace-orders-to-netsuite,2000014972,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-17 12:34,marketplace-orders-to-netsuite,2000014976,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-17 12:39,marketplace-orders-to-netsuite,2000014998,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-17 12:42,marketplace-orders-to-netsuite,2000015003,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-17 12:49,marketplace-orders-to-netsuite,2000014998,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-17 12:52,marketplace-orders-to-netsuite,2000015003,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-17 12:59,marketplace-orders-to-netsuite,2000014998,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-17 13:02,marketplace-orders-to-netsuite,2000015003,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-17 16:44,marketplace-orders-to-netsuite,2000015222,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 16:46,marketplace-orders-to-netsuite,2000015222,2,SUCCESS,,
+2026-09-17 17:17,marketplace-orders-to-netsuite,2000015251,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-17 17:27,marketplace-orders-to-netsuite,2000015251,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-17 17:37,marketplace-orders-to-netsuite,2000015251,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-17 19:14,marketplace-orders-to-netsuite,2000015321,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-17 19:24,marketplace-orders-to-netsuite,2000015321,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-17 19:34,marketplace-orders-to-netsuite,2000015321,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-17 19:34,marketplace-orders-to-netsuite,2000015332,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-17 19:44,marketplace-orders-to-netsuite,2000015332,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-17 19:50,marketplace-orders-to-netsuite,2000015345,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-17 19:51,marketplace-orders-to-netsuite,2000015345,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-17 19:52,marketplace-orders-to-netsuite,2000015345,3,SUCCESS,,
+2026-09-17 19:54,marketplace-orders-to-netsuite,2000015332,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-17 20:53,marketplace-orders-to-netsuite,2000015402,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 20:55,marketplace-orders-to-netsuite,2000015402,2,SUCCESS,,
+2026-09-17 21:18,marketplace-orders-to-netsuite,2000015416,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 21:20,marketplace-orders-to-netsuite,2000015416,2,SUCCESS,,
+2026-09-17 22:35,marketplace-orders-to-netsuite,2000015481,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-17 22:36,marketplace-orders-to-netsuite,2000015481,2,SUCCESS,,
+2026-09-17 22:38,marketplace-orders-to-netsuite,2000015472,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 22:40,marketplace-orders-to-netsuite,2000015472,2,SUCCESS,,
+2026-09-17 23:12,marketplace-orders-to-netsuite,2000015505,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-17 23:14,marketplace-orders-to-netsuite,2000015505,2,SUCCESS,,
+2026-09-17 23:43,marketplace-orders-to-netsuite,2000015528,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-17 23:44,marketplace-orders-to-netsuite,2000015528,2,SUCCESS,,
+2026-09-18 00:28,marketplace-orders-to-netsuite,2000015570,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 00:30,marketplace-orders-to-netsuite,2000015570,2,SUCCESS,,
+2026-09-18 01:28,marketplace-orders-to-netsuite,2000015619,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-18 01:38,marketplace-orders-to-netsuite,2000015619,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-18 01:46,marketplace-orders-to-netsuite,2000015631,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 01:48,marketplace-orders-to-netsuite,2000015631,2,SUCCESS,,
+2026-09-18 01:48,marketplace-orders-to-netsuite,2000015619,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-18 01:54,marketplace-orders-to-netsuite,2000015633,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 01:56,marketplace-orders-to-netsuite,2000015633,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 01:58,marketplace-orders-to-netsuite,2000015633,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 02:00,marketplace-orders-to-netsuite,2000015633,4,SUCCESS,,
+2026-09-18 02:04,marketplace-orders-to-netsuite,2000015659,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-18 02:05,marketplace-orders-to-netsuite,2000015659,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-18 02:06,marketplace-orders-to-netsuite,2000015659,3,SUCCESS,,
+2026-09-18 02:38,marketplace-orders-to-netsuite,2000015672,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 02:40,marketplace-orders-to-netsuite,2000015672,2,SUCCESS,,
+2026-09-18 07:34,marketplace-orders-to-netsuite,2000015706,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-18 07:35,marketplace-orders-to-netsuite,2000015706,2,SUCCESS,,
+2026-09-18 11:00,marketplace-orders-to-netsuite,2000015762,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 11:02,marketplace-orders-to-netsuite,2000015762,2,SUCCESS,,
+2026-09-18 12:40,marketplace-orders-to-netsuite,2000015829,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-18 12:50,marketplace-orders-to-netsuite,2000015829,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-18 12:53,marketplace-orders-to-netsuite,2000015845,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-18 13:00,marketplace-orders-to-netsuite,2000015829,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-18 13:03,marketplace-orders-to-netsuite,2000015845,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-18 13:13,marketplace-orders-to-netsuite,2000015845,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-18 15:26,marketplace-orders-to-netsuite,2000015975,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-18 15:27,marketplace-orders-to-netsuite,2000015975,2,SUCCESS,,
+2026-09-18 15:30,marketplace-orders-to-netsuite,2000015984,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-18 15:31,marketplace-orders-to-netsuite,2000015984,2,SUCCESS,,
+2026-09-18 16:11,marketplace-orders-to-netsuite,2000016023,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-18 16:12,marketplace-orders-to-netsuite,2000016023,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-18 16:13,marketplace-orders-to-netsuite,2000016023,3,SUCCESS,,
+2026-09-18 16:44,marketplace-orders-to-netsuite,2000016041,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-18 16:45,marketplace-orders-to-netsuite,2000016041,2,SUCCESS,,
+2026-09-18 18:35,marketplace-orders-to-netsuite,2000016153,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 18:37,marketplace-orders-to-netsuite,2000016153,2,SUCCESS,,
+2026-09-18 19:14,marketplace-orders-to-netsuite,2000016182,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-18 19:21,marketplace-orders-to-netsuite,2000016193,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-18 19:24,marketplace-orders-to-netsuite,2000016182,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-18 19:31,marketplace-orders-to-netsuite,2000016193,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-18 19:34,marketplace-orders-to-netsuite,2000016182,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-18 19:41,marketplace-orders-to-netsuite,2000016193,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-18 19:57,marketplace-orders-to-netsuite,2000016217,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-18 20:07,marketplace-orders-to-netsuite,2000016217,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-18 20:17,marketplace-orders-to-netsuite,2000016217,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-18 21:05,marketplace-orders-to-netsuite,2000016253,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 21:07,marketplace-orders-to-netsuite,2000016253,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 21:09,marketplace-orders-to-netsuite,2000016253,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 21:11,marketplace-orders-to-netsuite,2000016253,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 21:13,marketplace-orders-to-netsuite,2000016253,5,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 21:15,marketplace-orders-to-netsuite,2000016253,6,SUCCESS,,
+2026-09-18 21:55,marketplace-orders-to-netsuite,2000016312,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-18 21:56,marketplace-orders-to-netsuite,2000016312,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-18 21:57,marketplace-orders-to-netsuite,2000016312,3,SUCCESS,,
+2026-09-18 22:08,marketplace-orders-to-netsuite,2000016325,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-18 22:09,marketplace-orders-to-netsuite,2000016325,2,SUCCESS,,
+2026-09-18 22:13,marketplace-orders-to-netsuite,2000016324,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-18 22:14,marketplace-orders-to-netsuite,2000016324,2,SUCCESS,,
+2026-09-18 22:24,marketplace-orders-to-netsuite,2000016322,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 22:26,marketplace-orders-to-netsuite,2000016322,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 22:28,marketplace-orders-to-netsuite,2000016322,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 22:30,marketplace-orders-to-netsuite,2000016322,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 22:31,marketplace-orders-to-netsuite,2000016338,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 22:32,marketplace-orders-to-netsuite,2000016322,5,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 22:33,marketplace-orders-to-netsuite,2000016338,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 22:34,marketplace-orders-to-netsuite,2000016322,6,SUCCESS,,
+2026-09-18 22:35,marketplace-orders-to-netsuite,2000016338,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 22:37,marketplace-orders-to-netsuite,2000016338,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 22:39,marketplace-orders-to-netsuite,2000016338,5,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-18 22:41,marketplace-orders-to-netsuite,2000016338,6,SUCCESS,,
+2026-09-18 23:09,marketplace-orders-to-netsuite,2000016364,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-18 23:10,marketplace-orders-to-netsuite,2000016364,2,SUCCESS,,
+2026-09-19 00:46,marketplace-orders-to-netsuite,2000016446,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-19 00:47,marketplace-orders-to-netsuite,2000016446,2,SUCCESS,,
+2026-09-19 01:25,marketplace-orders-to-netsuite,2000016480,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-19 01:32,marketplace-orders-to-netsuite,2000016492,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-19 01:33,marketplace-orders-to-netsuite,2000016492,2,SUCCESS,,
+2026-09-19 01:35,marketplace-orders-to-netsuite,2000016480,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-19 01:45,marketplace-orders-to-netsuite,2000016480,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-19 02:28,marketplace-orders-to-netsuite,2000016521,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-19 02:38,marketplace-orders-to-netsuite,2000016521,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-19 02:48,marketplace-orders-to-netsuite,2000016521,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-19 07:45,marketplace-orders-to-netsuite,2000016563,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-19 07:46,marketplace-orders-to-netsuite,2000016563,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-19 07:47,marketplace-orders-to-netsuite,2000016563,3,SUCCESS,,
+2026-09-19 11:20,marketplace-orders-to-netsuite,2000016645,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-19 11:21,marketplace-orders-to-netsuite,2000016645,2,SUCCESS,,
+2026-09-19 12:24,marketplace-orders-to-netsuite,2000016692,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-19 12:25,marketplace-orders-to-netsuite,2000016692,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-19 12:26,marketplace-orders-to-netsuite,2000016692,3,SUCCESS,,
+2026-09-19 13:20,marketplace-orders-to-netsuite,2000016734,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-19 13:22,marketplace-orders-to-netsuite,2000016728,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-19 13:23,marketplace-orders-to-netsuite,2000016728,2,SUCCESS,,
+2026-09-19 13:30,marketplace-orders-to-netsuite,2000016734,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-19 13:32,marketplace-orders-to-netsuite,2000016753,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-19 13:33,marketplace-orders-to-netsuite,2000016753,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-19 13:34,marketplace-orders-to-netsuite,2000016753,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-19 13:35,marketplace-orders-to-netsuite,2000016753,4,SUCCESS,,
+2026-09-19 13:40,marketplace-orders-to-netsuite,2000016734,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-19 13:57,marketplace-orders-to-netsuite,2000016777,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-19 13:58,marketplace-orders-to-netsuite,2000016777,2,SUCCESS,,
+2026-09-19 14:57,marketplace-orders-to-netsuite,2000016823,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-19 15:07,marketplace-orders-to-netsuite,2000016823,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-19 15:17,marketplace-orders-to-netsuite,2000016823,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-19 15:27,marketplace-orders-to-netsuite,2000016842,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-19 15:29,marketplace-orders-to-netsuite,2000016870,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-19 15:29,marketplace-orders-to-netsuite,2000016842,2,SUCCESS,,
+2026-09-19 15:30,marketplace-orders-to-netsuite,2000016870,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-19 15:31,marketplace-orders-to-netsuite,2000016870,3,SUCCESS,,
+2026-09-19 15:33,marketplace-orders-to-netsuite,2000016861,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-19 15:34,marketplace-orders-to-netsuite,2000016861,2,SUCCESS,,
+2026-09-19 15:35,marketplace-orders-to-netsuite,2000016855,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-19 15:35,marketplace-orders-to-netsuite,2000016871,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-19 15:37,marketplace-orders-to-netsuite,2000016855,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-19 15:37,marketplace-orders-to-netsuite,2000016871,2,SUCCESS,,
+2026-09-19 15:39,marketplace-orders-to-netsuite,2000016855,3,SUCCESS,,
+2026-09-19 16:14,marketplace-orders-to-netsuite,2000016901,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-19 16:24,marketplace-orders-to-netsuite,2000016901,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-19 16:29,marketplace-orders-to-netsuite,2000016919,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-19 16:30,marketplace-orders-to-netsuite,2000016919,2,SUCCESS,,
+2026-09-19 16:34,marketplace-orders-to-netsuite,2000016901,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-19 16:55,marketplace-orders-to-netsuite,2000016939,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-19 16:56,marketplace-orders-to-netsuite,2000016939,2,SUCCESS,,
+2026-09-19 17:15,marketplace-orders-to-netsuite,2000016948,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-19 17:17,marketplace-orders-to-netsuite,2000016948,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-19 17:19,marketplace-orders-to-netsuite,2000016948,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-19 17:21,marketplace-orders-to-netsuite,2000016948,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-19 17:23,marketplace-orders-to-netsuite,2000016948,5,SUCCESS,,
+2026-09-19 17:40,marketplace-orders-to-netsuite,2000016974,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-19 17:42,marketplace-orders-to-netsuite,2000016974,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-19 17:44,marketplace-orders-to-netsuite,2000016974,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-19 17:46,marketplace-orders-to-netsuite,2000016974,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-19 17:48,marketplace-orders-to-netsuite,2000016974,5,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-19 17:50,marketplace-orders-to-netsuite,2000016974,6,SUCCESS,,
+2026-09-19 18:32,marketplace-orders-to-netsuite,2000017011,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-19 18:33,marketplace-orders-to-netsuite,2000017011,2,SUCCESS,,
+2026-09-19 18:42,marketplace-orders-to-netsuite,2000017021,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-19 18:44,marketplace-orders-to-netsuite,2000017021,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-19 18:46,marketplace-orders-to-netsuite,2000017021,3,SUCCESS,,
+2026-09-19 21:40,marketplace-orders-to-netsuite,2000017163,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-19 21:42,marketplace-orders-to-netsuite,2000017163,2,SUCCESS,,
+2026-09-19 23:21,marketplace-orders-to-netsuite,2000017226,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-19 23:23,marketplace-orders-to-netsuite,2000017226,2,SUCCESS,,
+2026-09-20 02:59,marketplace-orders-to-netsuite,2000017380,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-20 03:09,marketplace-orders-to-netsuite,2000017380,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-20 03:19,marketplace-orders-to-netsuite,2000017380,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-20 08:59,marketplace-orders-to-netsuite,2000017431,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-20 09:09,marketplace-orders-to-netsuite,2000017431,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-20 09:19,marketplace-orders-to-netsuite,2000017431,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-20 11:07,marketplace-orders-to-netsuite,2000017496,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-20 11:08,marketplace-orders-to-netsuite,2000017496,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-20 11:09,marketplace-orders-to-netsuite,2000017496,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-20 11:10,marketplace-orders-to-netsuite,2000017496,4,SUCCESS,,
+2026-09-20 11:45,marketplace-orders-to-netsuite,2000017516,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-20 11:47,marketplace-orders-to-netsuite,2000017516,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-20 11:49,marketplace-orders-to-netsuite,2000017516,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-20 11:51,marketplace-orders-to-netsuite,2000017516,4,SUCCESS,,
+2026-09-20 12:17,marketplace-orders-to-netsuite,2000017549,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-20 12:19,marketplace-orders-to-netsuite,2000017549,2,SUCCESS,,
+2026-09-20 13:04,marketplace-orders-to-netsuite,2000017581,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-20 13:06,marketplace-orders-to-netsuite,2000017581,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-20 13:08,marketplace-orders-to-netsuite,2000017581,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-20 13:10,marketplace-orders-to-netsuite,2000017581,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-20 13:12,marketplace-orders-to-netsuite,2000017581,5,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-20 13:14,marketplace-orders-to-netsuite,2000017581,6,SUCCESS,,
+2026-09-20 13:23,marketplace-orders-to-netsuite,2000017594,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-20 13:24,marketplace-orders-to-netsuite,2000017594,2,SUCCESS,,
+2026-09-20 14:30,marketplace-orders-to-netsuite,2000017639,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-20 14:40,marketplace-orders-to-netsuite,2000017639,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-20 14:50,marketplace-orders-to-netsuite,2000017639,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-20 16:34,marketplace-orders-to-netsuite,2000017742,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-20 16:36,marketplace-orders-to-netsuite,2000017742,2,SUCCESS,,
+2026-09-20 16:45,marketplace-orders-to-netsuite,2000017758,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-20 16:55,marketplace-orders-to-netsuite,2000017758,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-20 17:05,marketplace-orders-to-netsuite,2000017758,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-20 18:15,marketplace-orders-to-netsuite,2000017839,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-20 18:17,marketplace-orders-to-netsuite,2000017839,2,SUCCESS,,
+2026-09-20 19:27,marketplace-orders-to-netsuite,2000017889,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-20 19:29,marketplace-orders-to-netsuite,2000017889,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-20 19:31,marketplace-orders-to-netsuite,2000017889,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-20 19:33,marketplace-orders-to-netsuite,2000017889,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-20 19:35,marketplace-orders-to-netsuite,2000017889,5,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-20 19:37,marketplace-orders-to-netsuite,2000017889,6,SUCCESS,,
+2026-09-20 20:01,marketplace-orders-to-netsuite,2000017924,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-20 20:02,marketplace-orders-to-netsuite,2000017924,2,SUCCESS,,
+2026-09-20 21:57,marketplace-orders-to-netsuite,2000017983,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-20 21:58,marketplace-orders-to-netsuite,2000017983,2,SUCCESS,,
+2026-09-20 22:00,marketplace-orders-to-netsuite,2000017982,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-20 22:02,marketplace-orders-to-netsuite,2000017982,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-20 22:04,marketplace-orders-to-netsuite,2000017982,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-20 22:06,marketplace-orders-to-netsuite,2000017982,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-20 22:08,marketplace-orders-to-netsuite,2000017982,5,SUCCESS,,
+2026-09-20 22:46,marketplace-orders-to-netsuite,2000018030,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-20 22:47,marketplace-orders-to-netsuite,2000018030,2,SUCCESS,,
+2026-09-20 23:24,marketplace-orders-to-netsuite,2000018061,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-20 23:25,marketplace-orders-to-netsuite,2000018061,2,SUCCESS,,
+2026-09-21 01:23,marketplace-orders-to-netsuite,2000018163,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-21 01:24,marketplace-orders-to-netsuite,2000018163,2,SUCCESS,,
+2026-09-21 01:26,marketplace-orders-to-netsuite,2000018165,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-21 01:36,marketplace-orders-to-netsuite,2000018165,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-21 01:46,marketplace-orders-to-netsuite,2000018165,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-21 05:18,marketplace-orders-to-netsuite,2000018234,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-21 05:20,marketplace-orders-to-netsuite,2000018234,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-21 05:22,marketplace-orders-to-netsuite,2000018234,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-21 05:24,marketplace-orders-to-netsuite,2000018234,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-21 05:26,marketplace-orders-to-netsuite,2000018234,5,SUCCESS,,
+2026-09-21 07:23,marketplace-orders-to-netsuite,2000018241,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-21 07:33,marketplace-orders-to-netsuite,2000018241,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-21 07:43,marketplace-orders-to-netsuite,2000018241,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-21 09:36,marketplace-orders-to-netsuite,2000018260,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-21 09:38,marketplace-orders-to-netsuite,2000018260,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-21 09:40,marketplace-orders-to-netsuite,2000018260,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-21 09:42,marketplace-orders-to-netsuite,2000018260,4,SUCCESS,,
+2026-09-21 11:05,marketplace-orders-to-netsuite,2000018305,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-21 11:07,marketplace-orders-to-netsuite,2000018305,2,SUCCESS,,
+2026-09-21 12:07,marketplace-orders-to-netsuite,2000018366,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-21 12:08,marketplace-orders-to-netsuite,2000018366,2,SUCCESS,,
+2026-09-21 12:26,marketplace-orders-to-netsuite,2000018378,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-21 12:27,marketplace-orders-to-netsuite,2000018378,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-21 12:28,marketplace-orders-to-netsuite,2000018378,3,SUCCESS,,
+2026-09-21 12:55,marketplace-orders-to-netsuite,2000018409,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-21 13:05,marketplace-orders-to-netsuite,2000018409,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-21 13:15,marketplace-orders-to-netsuite,2000018409,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-21 13:23,marketplace-orders-to-netsuite,2000018436,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-21 13:33,marketplace-orders-to-netsuite,2000018436,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-21 13:35,marketplace-orders-to-netsuite,2000018448,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-21 13:43,marketplace-orders-to-netsuite,2000018436,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1463188
+2026-09-21 13:45,marketplace-orders-to-netsuite,2000018448,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-21 13:55,marketplace-orders-to-netsuite,2000018448,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-21 15:05,marketplace-orders-to-netsuite,2000018531,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-21 15:06,marketplace-orders-to-netsuite,2000018531,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-21 15:07,marketplace-orders-to-netsuite,2000018531,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-21 15:08,marketplace-orders-to-netsuite,2000018531,4,SUCCESS,,
+2026-09-21 15:51,marketplace-orders-to-netsuite,2000018572,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-21 15:52,marketplace-orders-to-netsuite,2000018572,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-21 15:53,marketplace-orders-to-netsuite,2000018572,3,SUCCESS,,
+2026-09-21 15:57,marketplace-orders-to-netsuite,2000018581,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-21 15:58,marketplace-orders-to-netsuite,2000018581,2,SUCCESS,,
+2026-09-21 16:41,marketplace-orders-to-netsuite,2000018601,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-21 16:42,marketplace-orders-to-netsuite,2000018601,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-21 16:43,marketplace-orders-to-netsuite,2000018601,3,SUCCESS,,
+2026-09-21 16:49,marketplace-orders-to-netsuite,2000018606,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-21 16:50,marketplace-orders-to-netsuite,2000018606,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-21 16:51,marketplace-orders-to-netsuite,2000018606,3,SUCCESS,,
+2026-09-21 18:34,marketplace-orders-to-netsuite,2000018690,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-21 18:44,marketplace-orders-to-netsuite,2000018690,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-21 18:54,marketplace-orders-to-netsuite,2000018690,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-21 20:59,marketplace-orders-to-netsuite,2000018803,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-21 21:01,marketplace-orders-to-netsuite,2000018803,2,SUCCESS,,
+2026-09-21 21:19,marketplace-orders-to-netsuite,2000018814,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-21 21:20,marketplace-orders-to-netsuite,2000018814,2,SUCCESS,,
+2026-09-21 21:24,marketplace-orders-to-netsuite,2000018821,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-21 21:34,marketplace-orders-to-netsuite,2000018821,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-21 21:44,marketplace-orders-to-netsuite,2000018821,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-22 00:17,marketplace-orders-to-netsuite,2000018972,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-22 00:27,marketplace-orders-to-netsuite,2000018972,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-22 00:37,marketplace-orders-to-netsuite,2000018972,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-22 02:40,marketplace-orders-to-netsuite,2000019071,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-22 02:42,marketplace-orders-to-netsuite,2000019071,2,SUCCESS,,
+2026-09-22 07:32,marketplace-orders-to-netsuite,2000019113,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-22 07:33,marketplace-orders-to-netsuite,2000019113,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-22 07:34,marketplace-orders-to-netsuite,2000019113,3,SUCCESS,,
+2026-09-22 09:25,marketplace-orders-to-netsuite,2000019131,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-22 09:35,marketplace-orders-to-netsuite,2000019131,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-22 09:45,marketplace-orders-to-netsuite,2000019131,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-22 11:21,marketplace-orders-to-netsuite,2000019188,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-22 11:23,marketplace-orders-to-netsuite,2000019188,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-22 11:25,marketplace-orders-to-netsuite,2000019188,3,SUCCESS,,
+2026-09-22 12:14,marketplace-orders-to-netsuite,2000019225,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-22 12:16,marketplace-orders-to-netsuite,2000019225,2,SUCCESS,,
+2026-09-22 13:34,marketplace-orders-to-netsuite,2000019300,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-22 13:44,marketplace-orders-to-netsuite,2000019300,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-22 13:54,marketplace-orders-to-netsuite,2000019300,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-22 14:03,marketplace-orders-to-netsuite,2000019329,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-22 14:13,marketplace-orders-to-netsuite,2000019329,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-22 14:23,marketplace-orders-to-netsuite,2000019329,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-22 14:52,marketplace-orders-to-netsuite,2000019364,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-22 14:54,marketplace-orders-to-netsuite,2000019364,2,SUCCESS,,
+2026-09-22 18:44,marketplace-orders-to-netsuite,2000019537,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-22 18:54,marketplace-orders-to-netsuite,2000019537,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-22 19:04,marketplace-orders-to-netsuite,2000019537,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-22 20:48,marketplace-orders-to-netsuite,2000019615,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-22 20:49,marketplace-orders-to-netsuite,2000019627,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-22 20:50,marketplace-orders-to-netsuite,2000019627,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-22 20:50,marketplace-orders-to-netsuite,2000019615,2,SUCCESS,,
+2026-09-22 20:51,marketplace-orders-to-netsuite,2000019627,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-22 20:52,marketplace-orders-to-netsuite,2000019627,4,SUCCESS,,
+2026-09-22 21:13,marketplace-orders-to-netsuite,2000019642,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-22 21:23,marketplace-orders-to-netsuite,2000019642,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-22 21:33,marketplace-orders-to-netsuite,2000019642,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1867405
+2026-09-22 22:25,marketplace-orders-to-netsuite,2000019698,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-22 22:27,marketplace-orders-to-netsuite,2000019698,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-22 22:29,marketplace-orders-to-netsuite,2000019698,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-22 22:31,marketplace-orders-to-netsuite,2000019698,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-22 22:33,marketplace-orders-to-netsuite,2000019698,5,SUCCESS,,
+2026-09-22 22:49,marketplace-orders-to-netsuite,2000019717,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-22 22:50,marketplace-orders-to-netsuite,2000019717,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-22 22:51,marketplace-orders-to-netsuite,2000019717,3,SUCCESS,,
+2026-09-22 22:55,marketplace-orders-to-netsuite,2000019735,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-22 22:56,marketplace-orders-to-netsuite,2000019735,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-22 22:57,marketplace-orders-to-netsuite,2000019735,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-22 22:58,marketplace-orders-to-netsuite,2000019735,4,SUCCESS,,
+2026-09-23 00:14,marketplace-orders-to-netsuite,2000019785,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-23 00:15,marketplace-orders-to-netsuite,2000019785,2,SUCCESS,,
+2026-09-23 00:22,marketplace-orders-to-netsuite,2000019797,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-23 00:24,marketplace-orders-to-netsuite,2000019797,2,SUCCESS,,
+2026-09-23 00:57,marketplace-orders-to-netsuite,2000019827,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-23 01:03,marketplace-orders-to-netsuite,2000019825,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-23 01:04,marketplace-orders-to-netsuite,2000019825,2,SUCCESS,,
+2026-09-23 01:07,marketplace-orders-to-netsuite,2000019827,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-23 01:13,marketplace-orders-to-netsuite,2000019838,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-23 01:14,marketplace-orders-to-netsuite,2000019838,2,SUCCESS,,
+2026-09-23 01:17,marketplace-orders-to-netsuite,2000019827,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-23 02:31,marketplace-orders-to-netsuite,2000019896,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-23 02:41,marketplace-orders-to-netsuite,2000019896,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-23 02:51,marketplace-orders-to-netsuite,2000019896,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-23 02:56,marketplace-orders-to-netsuite,2000019905,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-23 02:58,marketplace-orders-to-netsuite,2000019905,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-23 03:00,marketplace-orders-to-netsuite,2000019905,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-23 03:02,marketplace-orders-to-netsuite,2000019905,4,SUCCESS,,
+2026-09-23 04:14,marketplace-orders-to-netsuite,2000019927,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-23 04:15,marketplace-orders-to-netsuite,2000019927,2,SUCCESS,,
+2026-09-23 10:48,marketplace-orders-to-netsuite,2000020010,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-23 10:49,marketplace-orders-to-netsuite,2000020010,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-23 10:50,marketplace-orders-to-netsuite,2000020010,3,SUCCESS,,
+2026-09-23 12:12,marketplace-orders-to-netsuite,2000020069,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-23 12:13,marketplace-orders-to-netsuite,2000020069,2,SUCCESS,,
+2026-09-23 12:47,marketplace-orders-to-netsuite,2000020108,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-23 12:48,marketplace-orders-to-netsuite,2000020108,2,SUCCESS,,
+2026-09-23 12:59,marketplace-orders-to-netsuite,2000020122,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-23 13:09,marketplace-orders-to-netsuite,2000020122,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-23 13:19,marketplace-orders-to-netsuite,2000020122,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-23 14:05,marketplace-orders-to-netsuite,2000020177,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-23 14:07,marketplace-orders-to-netsuite,2000020177,2,SUCCESS,,
+2026-09-23 15:35,marketplace-orders-to-netsuite,2000020274,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-23 15:37,marketplace-orders-to-netsuite,2000020274,2,SUCCESS,,
+2026-09-23 21:12,marketplace-orders-to-netsuite,2000020507,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-23 21:22,marketplace-orders-to-netsuite,2000020507,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-23 21:32,marketplace-orders-to-netsuite,2000020507,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-23 22:05,marketplace-orders-to-netsuite,2000020549,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-23 22:07,marketplace-orders-to-netsuite,2000020549,2,SUCCESS,,
+2026-09-24 01:03,marketplace-orders-to-netsuite,2000020681,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 01:04,marketplace-orders-to-netsuite,2000020681,2,SUCCESS,,
+2026-09-24 01:38,marketplace-orders-to-netsuite,2000020693,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 01:39,marketplace-orders-to-netsuite,2000020693,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 01:40,marketplace-orders-to-netsuite,2000020693,3,SUCCESS,,
+2026-09-24 01:53,marketplace-orders-to-netsuite,2000020713,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-24 01:55,marketplace-orders-to-netsuite,2000020713,2,SUCCESS,,
+2026-09-24 09:42,marketplace-orders-to-netsuite,2000020795,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-24 09:52,marketplace-orders-to-netsuite,2000020795,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-24 10:02,marketplace-orders-to-netsuite,2000020795,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-24 10:17,marketplace-orders-to-netsuite,2000020805,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 10:18,marketplace-orders-to-netsuite,2000020805,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 10:19,marketplace-orders-to-netsuite,2000020805,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 10:20,marketplace-orders-to-netsuite,2000020805,4,SUCCESS,,
+2026-09-24 12:01,marketplace-orders-to-netsuite,2000020885,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-24 12:03,marketplace-orders-to-netsuite,2000020885,2,SUCCESS,,
+2026-09-24 12:59,marketplace-orders-to-netsuite,2000020939,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 13:00,marketplace-orders-to-netsuite,2000020939,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 13:01,marketplace-orders-to-netsuite,2000020939,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 13:01,marketplace-orders-to-netsuite,2000020934,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-24 13:02,marketplace-orders-to-netsuite,2000020939,4,SUCCESS,,
+2026-09-24 13:08,marketplace-orders-to-netsuite,2000020941,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 13:09,marketplace-orders-to-netsuite,2000020941,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 13:10,marketplace-orders-to-netsuite,2000020941,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 13:11,marketplace-orders-to-netsuite,2000020941,4,SUCCESS,,
+2026-09-24 13:11,marketplace-orders-to-netsuite,2000020934,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-24 13:21,marketplace-orders-to-netsuite,2000020934,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-24 13:42,marketplace-orders-to-netsuite,2000020975,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 13:43,marketplace-orders-to-netsuite,2000020975,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 13:44,marketplace-orders-to-netsuite,2000020975,3,SUCCESS,,
+2026-09-24 14:09,marketplace-orders-to-netsuite,2000020998,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 14:10,marketplace-orders-to-netsuite,2000020998,2,SUCCESS,,
+2026-09-24 14:11,marketplace-orders-to-netsuite,2000020999,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-24 14:21,marketplace-orders-to-netsuite,2000020999,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-24 14:31,marketplace-orders-to-netsuite,2000020999,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-24 15:20,marketplace-orders-to-netsuite,2000021062,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-24 15:22,marketplace-orders-to-netsuite,2000021062,2,SUCCESS,,
+2026-09-24 17:22,marketplace-orders-to-netsuite,2000021182,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 17:23,marketplace-orders-to-netsuite,2000021182,2,SUCCESS,,
+2026-09-24 17:40,marketplace-orders-to-netsuite,2000021198,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-24 17:50,marketplace-orders-to-netsuite,2000021198,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-24 17:56,marketplace-orders-to-netsuite,2000021217,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-24 17:58,marketplace-orders-to-netsuite,2000021217,2,SUCCESS,,
+2026-09-24 18:00,marketplace-orders-to-netsuite,2000021198,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1168291
+2026-09-24 18:21,marketplace-orders-to-netsuite,2000021236,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-24 18:23,marketplace-orders-to-netsuite,2000021236,2,SUCCESS,,
+2026-09-24 19:13,marketplace-orders-to-netsuite,2000021262,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-24 19:15,marketplace-orders-to-netsuite,2000021262,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-24 19:17,marketplace-orders-to-netsuite,2000021262,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-24 19:19,marketplace-orders-to-netsuite,2000021262,4,SUCCESS,,
+2026-09-24 19:51,marketplace-orders-to-netsuite,2000021305,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-24 20:01,marketplace-orders-to-netsuite,2000021305,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-24 20:11,marketplace-orders-to-netsuite,2000021305,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1349630
+2026-09-24 20:22,marketplace-orders-to-netsuite,2000021329,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-24 20:28,marketplace-orders-to-netsuite,2000021326,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 20:29,marketplace-orders-to-netsuite,2000021326,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 20:30,marketplace-orders-to-netsuite,2000021326,3,SUCCESS,,
+2026-09-24 20:32,marketplace-orders-to-netsuite,2000021329,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-24 20:42,marketplace-orders-to-netsuite,2000021329,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-24 20:45,marketplace-orders-to-netsuite,2000021344,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 20:46,marketplace-orders-to-netsuite,2000021344,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 20:47,marketplace-orders-to-netsuite,2000021344,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 20:48,marketplace-orders-to-netsuite,2000021344,4,SUCCESS,,
+2026-09-24 22:19,marketplace-orders-to-netsuite,2000021396,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-24 22:21,marketplace-orders-to-netsuite,2000021396,2,SUCCESS,,
+2026-09-24 22:44,marketplace-orders-to-netsuite,2000021413,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-24 22:46,marketplace-orders-to-netsuite,2000021413,2,SUCCESS,,
+2026-09-24 23:54,marketplace-orders-to-netsuite,2000021460,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-24 23:55,marketplace-orders-to-netsuite,2000021460,2,SUCCESS,,
+2026-09-24 23:57,marketplace-orders-to-netsuite,2000021464,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-25 00:07,marketplace-orders-to-netsuite,2000021464,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-25 00:17,marketplace-orders-to-netsuite,2000021464,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1814144
+2026-09-25 00:51,marketplace-orders-to-netsuite,2000021504,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-25 01:01,marketplace-orders-to-netsuite,2000021504,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-25 01:11,marketplace-orders-to-netsuite,2000021504,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1820332
+2026-09-25 01:36,marketplace-orders-to-netsuite,2000021538,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-25 01:37,marketplace-orders-to-netsuite,2000021538,2,SUCCESS,,
+2026-09-25 08:58,marketplace-orders-to-netsuite,2000021639,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-25 09:00,marketplace-orders-to-netsuite,2000021639,2,SUCCESS,,
+2026-09-25 10:38,marketplace-orders-to-netsuite,2000021681,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-25 10:40,marketplace-orders-to-netsuite,2000021681,2,SUCCESS,,
+2026-09-25 10:46,marketplace-orders-to-netsuite,2000021688,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-25 10:48,marketplace-orders-to-netsuite,2000021688,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-25 10:50,marketplace-orders-to-netsuite,2000021688,3,SUCCESS,,
+2026-09-25 13:04,marketplace-orders-to-netsuite,2000021794,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-25 13:06,marketplace-orders-to-netsuite,2000021794,2,SUCCESS,,
+2026-09-25 14:04,marketplace-orders-to-netsuite,2000021860,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-25 14:05,marketplace-orders-to-netsuite,2000021860,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-25 14:06,marketplace-orders-to-netsuite,2000021860,3,SUCCESS,,
+2026-09-25 15:11,marketplace-orders-to-netsuite,2000021946,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-25 15:12,marketplace-orders-to-netsuite,2000021946,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-25 15:13,marketplace-orders-to-netsuite,2000021946,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-25 15:14,marketplace-orders-to-netsuite,2000021946,4,SUCCESS,,
+2026-09-25 15:36,marketplace-orders-to-netsuite,2000021962,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-25 15:37,marketplace-orders-to-netsuite,2000021962,2,SUCCESS,,
+2026-09-25 16:02,marketplace-orders-to-netsuite,2000021991,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-25 16:03,marketplace-orders-to-netsuite,2000021994,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-25 16:04,marketplace-orders-to-netsuite,2000021994,2,SUCCESS,,
+2026-09-25 16:04,marketplace-orders-to-netsuite,2000021991,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-25 16:06,marketplace-orders-to-netsuite,2000021991,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-25 16:08,marketplace-orders-to-netsuite,2000021991,4,SUCCESS,,
+2026-09-25 20:13,marketplace-orders-to-netsuite,2000022188,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-25 20:23,marketplace-orders-to-netsuite,2000022188,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-25 20:33,marketplace-orders-to-netsuite,2000022188,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1041282
+2026-09-25 21:40,marketplace-orders-to-netsuite,2000022276,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-25 21:42,marketplace-orders-to-netsuite,2000022276,2,SUCCESS,,
+2026-09-25 21:46,marketplace-orders-to-netsuite,2000022271,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-25 21:48,marketplace-orders-to-netsuite,2000022271,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-25 21:50,marketplace-orders-to-netsuite,2000022271,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-25 21:52,marketplace-orders-to-netsuite,2000022271,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-25 21:54,marketplace-orders-to-netsuite,2000022271,5,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-25 21:56,marketplace-orders-to-netsuite,2000022271,6,SUCCESS,,
+2026-09-25 21:59,marketplace-orders-to-netsuite,2000022278,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-25 22:01,marketplace-orders-to-netsuite,2000022278,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-25 22:03,marketplace-orders-to-netsuite,2000022278,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-25 22:05,marketplace-orders-to-netsuite,2000022278,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-25 22:07,marketplace-orders-to-netsuite,2000022278,5,SUCCESS,,
+2026-09-25 22:11,marketplace-orders-to-netsuite,2000022296,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-25 22:12,marketplace-orders-to-netsuite,2000022313,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-25 22:13,marketplace-orders-to-netsuite,2000022313,2,SUCCESS,,
+2026-09-25 22:21,marketplace-orders-to-netsuite,2000022296,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-25 22:31,marketplace-orders-to-netsuite,2000022296,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-25 22:36,marketplace-orders-to-netsuite,2000022334,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-25 22:46,marketplace-orders-to-netsuite,2000022334,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-25 22:56,marketplace-orders-to-netsuite,2000022334,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-25 23:25,marketplace-orders-to-netsuite,2000022388,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-25 23:35,marketplace-orders-to-netsuite,2000022388,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-25 23:40,marketplace-orders-to-netsuite,2000022389,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-25 23:42,marketplace-orders-to-netsuite,2000022389,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-25 23:44,marketplace-orders-to-netsuite,2000022389,3,SUCCESS,,
+2026-09-25 23:45,marketplace-orders-to-netsuite,2000022388,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-26 00:48,marketplace-orders-to-netsuite,2000022450,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-26 00:50,marketplace-orders-to-netsuite,2000022450,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-26 00:52,marketplace-orders-to-netsuite,2000022450,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-26 00:54,marketplace-orders-to-netsuite,2000022450,4,SUCCESS,,
+2026-09-26 01:05,marketplace-orders-to-netsuite,2000022466,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-26 01:07,marketplace-orders-to-netsuite,2000022466,2,SUCCESS,,
+2026-09-26 01:15,marketplace-orders-to-netsuite,2000022479,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-26 01:17,marketplace-orders-to-netsuite,2000022479,2,SUCCESS,,
+2026-09-26 01:47,marketplace-orders-to-netsuite,2000022499,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-26 01:48,marketplace-orders-to-netsuite,2000022499,2,SUCCESS,,
+2026-09-26 02:07,marketplace-orders-to-netsuite,2000022513,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-26 02:08,marketplace-orders-to-netsuite,2000022513,2,SUCCESS,,
+2026-09-26 02:29,marketplace-orders-to-netsuite,2000022519,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-26 02:30,marketplace-orders-to-netsuite,2000022519,2,SUCCESS,,
+2026-09-26 04:00,marketplace-orders-to-netsuite,2000022549,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-26 04:01,marketplace-orders-to-netsuite,2000022549,2,SUCCESS,,
+2026-09-26 08:39,marketplace-orders-to-netsuite,2000022584,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-26 08:41,marketplace-orders-to-netsuite,2000022584,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-26 08:43,marketplace-orders-to-netsuite,2000022584,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-26 08:45,marketplace-orders-to-netsuite,2000022584,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-26 08:47,marketplace-orders-to-netsuite,2000022584,5,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-26 08:49,marketplace-orders-to-netsuite,2000022584,6,SUCCESS,,
+2026-09-26 11:30,marketplace-orders-to-netsuite,2000022671,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-26 11:40,marketplace-orders-to-netsuite,2000022671,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-26 11:50,marketplace-orders-to-netsuite,2000022671,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1600142
+2026-09-26 12:08,marketplace-orders-to-netsuite,2000022693,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-26 12:18,marketplace-orders-to-netsuite,2000022693,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-26 12:28,marketplace-orders-to-netsuite,2000022693,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1107739
+2026-09-26 13:00,marketplace-orders-to-netsuite,2000022739,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-26 13:10,marketplace-orders-to-netsuite,2000022739,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-26 13:20,marketplace-orders-to-netsuite,2000022739,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-26 13:37,marketplace-orders-to-netsuite,2000022776,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-26 13:38,marketplace-orders-to-netsuite,2000022776,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-26 13:39,marketplace-orders-to-netsuite,2000022776,3,SUCCESS,,
+2026-09-26 15:36,marketplace-orders-to-netsuite,2000022889,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-26 15:37,marketplace-orders-to-netsuite,2000022889,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-26 15:38,marketplace-orders-to-netsuite,2000022889,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-26 15:39,marketplace-orders-to-netsuite,2000022889,4,SUCCESS,,
+2026-09-26 16:03,marketplace-orders-to-netsuite,2000022907,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-26 16:04,marketplace-orders-to-netsuite,2000022907,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-26 16:05,marketplace-orders-to-netsuite,2000022907,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-26 16:06,marketplace-orders-to-netsuite,2000022907,4,SUCCESS,,
+2026-09-26 17:08,marketplace-orders-to-netsuite,2000022956,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-26 17:10,marketplace-orders-to-netsuite,2000022956,2,SUCCESS,,
+2026-09-26 17:13,marketplace-orders-to-netsuite,2000022964,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-26 17:15,marketplace-orders-to-netsuite,2000022964,2,SUCCESS,,
+2026-09-26 17:49,marketplace-orders-to-netsuite,2000022989,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-26 17:50,marketplace-orders-to-netsuite,2000022989,2,SUCCESS,,
+2026-09-26 19:29,marketplace-orders-to-netsuite,2000023076,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-26 19:31,marketplace-orders-to-netsuite,2000023076,2,SUCCESS,,
+2026-09-26 20:00,marketplace-orders-to-netsuite,2000023112,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-26 20:10,marketplace-orders-to-netsuite,2000023112,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-26 20:20,marketplace-orders-to-netsuite,2000023112,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1698029
+2026-09-26 21:06,marketplace-orders-to-netsuite,2000023159,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-26 21:07,marketplace-orders-to-netsuite,2000023159,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-26 21:08,marketplace-orders-to-netsuite,2000023159,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-26 21:09,marketplace-orders-to-netsuite,2000023159,4,SUCCESS,,
+2026-09-26 21:18,marketplace-orders-to-netsuite,2000023161,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-26 21:20,marketplace-orders-to-netsuite,2000023161,2,SUCCESS,,
+2026-09-26 21:24,marketplace-orders-to-netsuite,2000023171,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-26 21:34,marketplace-orders-to-netsuite,2000023171,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-26 21:44,marketplace-orders-to-netsuite,2000023171,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1962343
+2026-09-26 22:06,marketplace-orders-to-netsuite,2000023219,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-26 22:08,marketplace-orders-to-netsuite,2000023219,2,SUCCESS,,
+2026-09-26 22:14,marketplace-orders-to-netsuite,2000023213,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-26 22:16,marketplace-orders-to-netsuite,2000023213,2,SUCCESS,,
+2026-09-26 22:42,marketplace-orders-to-netsuite,2000023243,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-26 22:44,marketplace-orders-to-netsuite,2000023243,2,SUCCESS,,
+2026-09-26 23:27,marketplace-orders-to-netsuite,2000023279,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-26 23:29,marketplace-orders-to-netsuite,2000023279,2,SUCCESS,,
+2026-09-26 23:31,marketplace-orders-to-netsuite,2000023282,1,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-26 23:41,marketplace-orders-to-netsuite,2000023282,2,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-26 23:51,marketplace-orders-to-netsuite,2000023282,3,ERROR,ITEM_NOT_FOUND,No item matches marketplace SKU MKP-1213772
+2026-09-26 23:54,marketplace-orders-to-netsuite,2000023301,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-26 23:55,marketplace-orders-to-netsuite,2000023296,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-26 23:55,marketplace-orders-to-netsuite,2000023301,2,SUCCESS,,
+2026-09-26 23:56,marketplace-orders-to-netsuite,2000023296,2,SUCCESS,,
+2026-09-27 00:48,marketplace-orders-to-netsuite,2000023325,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-27 00:50,marketplace-orders-to-netsuite,2000023325,2,SUCCESS,,
+2026-09-27 00:57,marketplace-orders-to-netsuite,2000023335,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-27 00:58,marketplace-orders-to-netsuite,2000023335,2,SUCCESS,,
+2026-09-27 10:02,marketplace-orders-to-netsuite,2000023484,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-27 10:04,marketplace-orders-to-netsuite,2000023484,2,SUCCESS,,
+2026-09-27 10:17,marketplace-orders-to-netsuite,2000023494,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-27 10:18,marketplace-orders-to-netsuite,2000023494,2,SUCCESS,,
+2026-09-27 12:30,marketplace-orders-to-netsuite,2000023584,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-27 12:32,marketplace-orders-to-netsuite,2000023584,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-27 12:34,marketplace-orders-to-netsuite,2000023584,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-27 12:36,marketplace-orders-to-netsuite,2000023584,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-27 12:38,marketplace-orders-to-netsuite,2000023584,5,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-27 12:40,marketplace-orders-to-netsuite,2000023584,6,SUCCESS,,
+2026-09-27 13:33,marketplace-orders-to-netsuite,2000023642,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-27 13:35,marketplace-orders-to-netsuite,2000023642,2,SUCCESS,,
+2026-09-27 13:51,marketplace-orders-to-netsuite,2000023654,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-27 13:53,marketplace-orders-to-netsuite,2000023654,2,SUCCESS,,
+2026-09-27 14:04,marketplace-orders-to-netsuite,2000023669,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-27 14:04,marketplace-orders-to-netsuite,2000023678,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-27 14:06,marketplace-orders-to-netsuite,2000023669,2,SUCCESS,,
+2026-09-27 14:06,marketplace-orders-to-netsuite,2000023678,2,SUCCESS,,
+2026-09-27 14:09,marketplace-orders-to-netsuite,2000023681,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-27 14:10,marketplace-orders-to-netsuite,2000023681,2,SUCCESS,,
+2026-09-27 16:08,marketplace-orders-to-netsuite,2000023787,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-27 16:10,marketplace-orders-to-netsuite,2000023787,2,SUCCESS,,
+2026-09-27 16:25,marketplace-orders-to-netsuite,2000023804,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-27 16:27,marketplace-orders-to-netsuite,2000023804,2,SUCCESS,,
+2026-09-27 16:31,marketplace-orders-to-netsuite,2000023802,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-27 16:32,marketplace-orders-to-netsuite,2000023802,2,SUCCESS,,
+2026-09-27 18:12,marketplace-orders-to-netsuite,2000023877,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-27 18:14,marketplace-orders-to-netsuite,2000023877,2,SUCCESS,,
+2026-09-27 18:15,marketplace-orders-to-netsuite,2000023893,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-27 18:16,marketplace-orders-to-netsuite,2000023893,2,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-27 18:17,marketplace-orders-to-netsuite,2000023893,3,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-27 18:18,marketplace-orders-to-netsuite,2000023893,4,SUCCESS,,
+2026-09-27 18:31,marketplace-orders-to-netsuite,2000023896,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-27 18:33,marketplace-orders-to-netsuite,2000023896,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-27 18:35,marketplace-orders-to-netsuite,2000023896,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-27 18:37,marketplace-orders-to-netsuite,2000023896,4,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-27 18:39,marketplace-orders-to-netsuite,2000023896,5,SUCCESS,,
+2026-09-27 18:45,marketplace-orders-to-netsuite,2000023915,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-27 18:47,marketplace-orders-to-netsuite,2000023915,2,SUCCESS,,
+2026-09-27 23:55,marketplace-orders-to-netsuite,2000024139,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-27 23:57,marketplace-orders-to-netsuite,2000024139,2,SUCCESS,,
+2026-09-28 00:35,marketplace-orders-to-netsuite,2000024171,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-28 00:37,marketplace-orders-to-netsuite,2000024171,2,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-28 00:39,marketplace-orders-to-netsuite,2000024171,3,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-28 00:41,marketplace-orders-to-netsuite,2000024171,4,SUCCESS,,
+2026-09-28 11:18,marketplace-orders-to-netsuite,2000024364,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-28 11:19,marketplace-orders-to-netsuite,2000024364,2,SUCCESS,,
+2026-09-28 14:43,marketplace-orders-to-netsuite,2000024556,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-28 14:44,marketplace-orders-to-netsuite,2000024556,2,SUCCESS,,
+2026-09-28 15:01,marketplace-orders-to-netsuite,2000024564,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-28 15:03,marketplace-orders-to-netsuite,2000024564,2,SUCCESS,,
+2026-09-28 17:48,marketplace-orders-to-netsuite,2000024714,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-28 17:50,marketplace-orders-to-netsuite,2000024714,2,SUCCESS,,
+2026-09-28 19:47,marketplace-orders-to-netsuite,2000024812,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-28 19:48,marketplace-orders-to-netsuite,2000024812,2,SUCCESS,,
+2026-09-28 19:54,marketplace-orders-to-netsuite,2000024818,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-28 19:56,marketplace-orders-to-netsuite,2000024818,2,SUCCESS,,
+2026-09-28 23:19,marketplace-orders-to-netsuite,2000024967,1,ERROR,TIMEOUT,Read timed out after 120000 ms
+2026-09-28 23:21,marketplace-orders-to-netsuite,2000024967,2,SUCCESS,,
+2026-09-29 13:21,marketplace-orders-to-netsuite,2000025325,1,ERROR,RATE_LIMIT,429 Too Many Requests: SuiteTalk concurrency limit exceeded
+2026-09-29 13:22,marketplace-orders-to-netsuite,2000025325,2,SUCCESS,,

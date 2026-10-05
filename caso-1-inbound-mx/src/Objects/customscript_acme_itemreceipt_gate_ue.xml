@@ -1,0 +1,38 @@
+<usereventscript scriptid="customscript_acme_itemreceipt_gate_ue">
+  <description>Blocks item receipts from an Inbound Shipment that is not ready to be received (landed cost, customs).</description>
+  <isinactive>F</isinactive>
+  <name>ACME - Item Receipt gate</name>
+  <notifyowner>T</notifyowner>
+  <scriptfile>[/SuiteScripts/acme_inbship/acme_itemreceipt_gate_ue.js]</scriptfile>
+  <scriptcustomfields>
+    <scriptcustomfield scriptid="custscript_acme_gate_enforce_lc">
+      <fieldtype>CHECKBOX</fieldtype><label>Gate: enforce landed cost loaded</label><defaultchecked>T</defaultchecked>
+      <description>Unchecked = warn-only (log), no block.</description>
+    </scriptcustomfield>
+    <scriptcustomfield scriptid="custscript_acme_gate_enforce_lcstatus">
+      <fieldtype>CHECKBOX</fieldtype><label>Gate: enforce LC Status = Confirmed</label><defaultchecked>T</defaultchecked>
+      <description>Unchecked = warn-only (log), no block.</description>
+    </scriptcustomfield>
+    <scriptcustomfield scriptid="custscript_acme_gate_enforce_customs">
+      <fieldtype>CHECKBOX</fieldtype><label>Gate: enforce customs number</label><defaultchecked>T</defaultchecked>
+      <description>Unchecked = warn-only (log), no block.</description>
+    </scriptcustomfield>
+    <scriptcustomfield scriptid="custscript_acme_gate_lc_confirmed_id">
+      <fieldtype>TEXT</fieldtype><label>Gate: LC Status 'Confirmed' internal id</label><defaultvalue>3</defaultvalue>
+    </scriptcustomfield>
+  </scriptcustomfields>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_acme_itemreceipt_gate_ue">
+      <allroles>T</allroles>
+      <custscript_acme_gate_enforce_lc>T</custscript_acme_gate_enforce_lc>
+      <custscript_acme_gate_enforce_lcstatus>T</custscript_acme_gate_enforce_lcstatus>
+      <custscript_acme_gate_enforce_customs>T</custscript_acme_gate_enforce_customs>
+      <custscript_acme_gate_lc_confirmed_id>3</custscript_acme_gate_lc_confirmed_id>
+      <executioncontext>CSVIMPORT|RESTWEBSERVICES|SUITELET|USERINTERFACE|WEBSERVICES</executioncontext>
+      <isdeployed>T</isdeployed>
+      <loglevel>AUDIT</loglevel>
+      <recordtype>ITEMRECEIPT</recordtype>
+      <status>RELEASED</status>
+    </scriptdeployment>
+  </scriptdeployments>
+</usereventscript>
