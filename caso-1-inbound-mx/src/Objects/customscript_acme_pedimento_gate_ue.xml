@@ -1,0 +1,49 @@
+<usereventscript scriptid="customscript_acme_pedimento_gate_ue">
+  <description>Blocks Andina MX item fulfillments and invoices with imported lots that have no row in the pedimento master (the CFDI would be stamped without pedimento). Deployed warn-only: set the master ids and turn on enforce after validating in sandbox.</description>
+  <isinactive>F</isinactive>
+  <name>ACME - Pedimento gate (MX)</name>
+  <notifyowner>T</notifyowner>
+  <scriptfile>[/SuiteScripts/acme_inbship/acme_pedimento_gate_ue.js]</scriptfile>
+  <scriptcustomfields>
+    <scriptcustomfield scriptid="custscript_acme_pedgate_mx_sub">
+      <fieldtype>TEXT</fieldtype><label>Pedimento gate: Andina MX subsidiary internal id</label>
+    </scriptcustomfield>
+    <scriptcustomfield scriptid="custscript_acme_pedgate_enforce">
+      <fieldtype>CHECKBOX</fieldtype><label>Pedimento gate: enforce</label><defaultchecked>F</defaultchecked>
+      <description>Unchecked = warn-only (log), no block. Turn on after the master ids are validated.</description>
+    </scriptcustomfield>
+    <scriptcustomfield scriptid="custscript_acme_pedgate_mst_type">
+      <fieldtype>TEXT</fieldtype><label>Pedimento master: record type id (bundle)</label>
+    </scriptcustomfield>
+    <scriptcustomfield scriptid="custscript_acme_pedgate_mst_item">
+      <fieldtype>TEXT</fieldtype><label>Pedimento master: item field id</label>
+    </scriptcustomfield>
+    <scriptcustomfield scriptid="custscript_acme_pedgate_mst_loc">
+      <fieldtype>TEXT</fieldtype><label>Pedimento master: location field id</label>
+    </scriptcustomfield>
+    <scriptcustomfield scriptid="custscript_acme_pedgate_mst_lot">
+      <fieldtype>TEXT</fieldtype><label>Pedimento master: lot field id</label>
+    </scriptcustomfield>
+    <scriptcustomfield scriptid="custscript_acme_pedgate_mst_ped">
+      <fieldtype>TEXT</fieldtype><label>Pedimento master: pedimento field id</label>
+    </scriptcustomfield>
+  </scriptcustomfields>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_acme_pedgate_if">
+      <allroles>T</allroles>
+      <custscript_acme_pedgate_enforce>F</custscript_acme_pedgate_enforce>
+      <isdeployed>T</isdeployed>
+      <loglevel>AUDIT</loglevel>
+      <recordtype>ITEMFULFILLMENT</recordtype>
+      <status>RELEASED</status>
+    </scriptdeployment>
+    <scriptdeployment scriptid="customdeploy_acme_pedgate_inv">
+      <allroles>T</allroles>
+      <custscript_acme_pedgate_enforce>F</custscript_acme_pedgate_enforce>
+      <isdeployed>T</isdeployed>
+      <loglevel>AUDIT</loglevel>
+      <recordtype>INVOICE</recordtype>
+      <status>RELEASED</status>
+    </scriptdeployment>
+  </scriptdeployments>
+</usereventscript>

@@ -1,0 +1,43 @@
+== Universo
+embarques=48 recepciones=48 lineas=330 maestro=265 facturas=655
+por source: {'Receive page': 31, 'Receive Inbound Shipment job': 17}
+por flujo : {'port_transfer': 40, 'direct': 8}
+
+== A. Recibido sin landed cost completo/confirmado al recibir
+  IR 9009 ship 5009 | Receive Inbound Shipment job | port_transfer | recibido 2026-07-24 | lc_status=Pending confirmado=- | filas LC al recibir=0 hoy=0 | LC total hoy=0 MXN
+  IR 9016 ship 5017 | Receive Inbound Shipment job | port_transfer | recibido 2026-07-30 | lc_status=Confirmed confirmado=2026-08-04 | filas LC al recibir=0 hoy=6 | LC total hoy=46199 MXN
+  IR 9021 ship 5025 | Receive Inbound Shipment job | port_transfer | recibido 2026-08-11 | lc_status=Confirmed confirmado=2026-08-19 | filas LC al recibir=0 hoy=6 | LC total hoy=117448 MXN
+  IR 9037 ship 5039 | Receive Inbound Shipment job | port_transfer | recibido 2026-08-30 | lc_status=Pending confirmado=- | filas LC al recibir=0 hoy=0 | LC total hoy=0 MXN
+  por source: {'Receive Inbound Shipment job': 4}
+  unidades afectadas: 5300
+  unidades vendidas antes de confirmar el LC: 339
+  LC cargado tarde (hoy cargado): 163648 MXN
+  embarques sin ninguna fila de LC: ['5009', '5039'] unidades=2817
+  LC faltante estimado: 344539 MXN (promedio ponderado 122.3 MXN/u) a 394114 MXN (promedio simple 139.9 MXN/u); rango de MXN/u entre embarques: 28-415
+
+== B. Maestro de pedimentos y CFDI sin pedimento
+  IR 9004 | direct | Receive Inbound Shipment job | lineas sin maestro=8 unidades=1082
+  IR 9022 | direct | Receive Inbound Shipment job | lineas sin maestro=10 unidades=1712
+  IR 9023 | direct | Receive page | lineas sin maestro=9 unidades=2020
+  IR 9024 | direct | Receive page | lineas sin maestro=9 unidades=1882
+  IR 9026 | direct | Receive Inbound Shipment job | lineas sin maestro=8 unidades=1543
+  IR 9031 | direct | Receive page | lineas sin maestro=7 unidades=1484
+  IR 9041 | direct | Receive Inbound Shipment job | lineas sin maestro=6 unidades=1121
+  IR 9046 | direct | Receive page | lineas sin maestro=8 unidades=935
+  recepciones por flujo con lineas sin maestro: {'direct': 8}
+  CFDI sin pedimento=134 unidades=2450
+  por flujo del lote : {'direct': 134}
+  por mes            : {'2026-07': 3, '2026-08': 32, '2026-09': 99}
+  recepciones directas por mes: {'2026-07': 1, '2026-08': 5, '2026-09': 2}
+
+== C. Segmento de aduana (cabecera vs linea vs pedimento del embarque)
+  cabeceras distintas al pedimento: 0
+  lineas con segmento vacio=9 unidades=2200 recepciones=['9007', '9010', '9020', '9043']
+  source de esas recepciones: {'Receive page': 7, 'Receive Inbound Shipment job': 2}
+  lineas con segmento distinto al pedimento: 0
+  lineas con lote distinto al pedimento: 0
+
+== D. Otros chequeos
+  recibidos antes del despacho aduanero: 0
+  categorias de LC (embarques con cada una): {'Flete internacional': 46, 'Seguro': 46, 'Agente aduanal': 46, 'IGI': 46, 'DTA': 46, 'Flete local': 27}
+  lineas reguladas=107 sin lote de fabricacion o vencimiento=0

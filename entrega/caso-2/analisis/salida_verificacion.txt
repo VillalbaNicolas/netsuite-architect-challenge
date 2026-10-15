@@ -1,0 +1,42 @@
+== Universo
+ordenes MP: 26687 {'delivered': 24473, 'paid': 355, 'shipped': 1859}
+fulfillment_type: {'marketplace': 22024, 'own': 4663}
+SO: 26842 {'Billed': 21851, 'Pending Fulfillment': 3389, 'Closed': 35, 'Pending Billing': 1567}
+
+== 1. SO con location distinta al fulfillment_type: 0
+
+== 2. SKUs vendidos sin mapeo: 12 | items mapeados inactivos: 0 | items mapeados inexistentes: 0
+   items con mas de un SKU: 6
+   AR-ITEM-0073 skus=['MKP-1773012', 'MKP-1812051'] entregadas=5 en_BO=5 on_hand={'AR-MKP-FC': '0', 'AR-CD-CENTRAL': '0'} TOs=0
+   AR-ITEM-0095 skus=['MKP-1676215', 'MKP-1849665'] entregadas=6 en_BO=6 on_hand={'AR-MKP-FC': '0', 'AR-CD-CENTRAL': '0'} TOs=0
+   AR-ITEM-0197 skus=['MKP-1546938', 'MKP-1953777'] entregadas=6 en_BO=6 on_hand={'AR-MKP-FC': '0', 'AR-CD-CENTRAL': '0'} TOs=0
+   AR-ITEM-0215 skus=['MKP-1208435', 'MKP-1390478'] entregadas=4 en_BO=4 on_hand={'AR-MKP-FC': '0', 'AR-CD-CENTRAL': '0'} TOs=0
+   AR-ITEM-0223 skus=['MKP-1144121', 'MKP-1546955'] entregadas=12 en_BO=12 on_hand={'AR-MKP-FC': '0', 'AR-CD-CENTRAL': '0'} TOs=0
+   AR-ITEM-0256 skus=['MKP-1427117', 'MKP-1931286'] entregadas=8 en_BO=8 on_hand={'AR-MKP-FC': '0', 'AR-CD-CENTRAL': '0'} TOs=0
+
+== 3. Transfer orders CENTRAL -> MKP-FC
+   status: {'Received': 46, 'Pending Receipt': 13}
+   dias hasta recepcion: {1: 5, 2: 6, 3: 32, 12: 16}
+   recibidas con demora > 5 dias: 16 items: 16
+   parciales/pendientes: 13 unidades en transito: 703 | in_transit snapshot MKP-FC: 703
+   BO (entregadas, SO original) en items con disponible>0: 495; de esas, SO creada antes de una recepcion tardia del item: 495
+
+== 4. SO duplicadas por mp_order_id
+   ordenes con duplicados: 92 | SO extra: 315 | status extras: {'Pending Fulfillment': 280, 'Closed': 35}
+   extras con backorder: 280 unidades BO: 451 | comprometidas: 0
+   extras cuyo original ya esta facturado: 296
+   grupos donde #SO == #intentos iPaaS: 92/92; con TIMEOUT: 92
+   maximo de SO para una orden: 39
+
+== 5. iPaaS log
+   eventos: 1801 ordenes: 636 (2.4% del total)
+   errores por codigo: {'RATE_LIMIT': 406, 'TIMEOUT': 439, 'ITEM_NOT_FOUND': 480}
+   resultado final por codigo: {('RATE_LIMIT', 'SUCCESS'): 260, ('TIMEOUT', 'SUCCESS'): 216, ('ITEM_NOT_FOUND', 'ERROR'): 160}
+   TIMEOUT por hora (top 5): [('00', 50), ('22', 40), ('01', 39), ('18', 31), ('15', 29)]
+   RATE_LIMIT por hora (top 5): [('13', 44), ('15', 37), ('16', 32), ('20', 30), ('23', 26)]
+   ordenes MP por hora (top 5): [('12', 1742), ('14', 1737), ('15', 1724), ('13', 1714), ('16', 1580)]
+   ITEM_NOT_FOUND: intentos Counter({3: 160}) | sin SO: 160
+   ejemplo ITEM_NOT_FOUND: [('2026-09-01 11:12', '1', 'No item matches marketplace SKU MKP-1867405'), ('2026-09-01 11:22', '2', 'No item matches marketplace SKU MKP-1867405'), ('2026-09-01 11:32', '3', 'No item matches marketplace SKU MKP-1867405')]
+   orden sin SO mas antigua: 2026-09-01 -> dias al corte: 29
+
+== 6. Entregadas comprometidas sin despachar: 60 entregas entre 2026-09-02 y 2026-09-23

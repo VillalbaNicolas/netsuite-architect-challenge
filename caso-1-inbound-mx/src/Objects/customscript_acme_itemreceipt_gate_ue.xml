@@ -28,7 +28,6 @@
       <custscript_acme_gate_enforce_lcstatus>T</custscript_acme_gate_enforce_lcstatus>
       <custscript_acme_gate_enforce_customs>T</custscript_acme_gate_enforce_customs>
       <custscript_acme_gate_lc_confirmed_id>3</custscript_acme_gate_lc_confirmed_id>
-      <executioncontext>CSVIMPORT|RESTWEBSERVICES|SUITELET|USERINTERFACE|WEBSERVICES</executioncontext>
       <isdeployed>T</isdeployed>
       <loglevel>AUDIT</loglevel>
       <recordtype>ITEMRECEIPT</recordtype>

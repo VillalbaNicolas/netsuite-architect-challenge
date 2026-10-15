@@ -1,0 +1,32 @@
+causa                             ordenes unidades
+0_FACTURADA                         21851    32905
+1_SIN_SO_SKU_SIN_MAPEO                160      160
+2_BO_ITEM_SIN_STOCK_NS                 41       41
+3_BO_STOCK_DISPONIBLE                 495      495
+4_BO_TO_EN_TRANSITO                   238      238
+5_BO_SIN_COBERTURA                     61       61
+6_COMPROMETIDA_NO_DESPACHADA           60       60
+7_PENDIENTE_FACTURAR                 1567     2296
+TOTAL entregadas no facturadas 2622 3351
+subtotal BO (entregadas en backorder, sin dup) 835 835
+
+SO duplicadas (extra): 315 sobre 92 ordenes; unidades 507 Counter({'Pending Fulfillment': 280, 'Closed': 35}) BO units 451 committed 0
+dups cuyo original esta Billed: 296
+status del original de las duplicadas: Counter({'Billed': 296, 'Pending Billing': 19})
+dups abiertas en items con BO legitimo: 0 unidades 0
+SO BO total (incluye dup y own/paid): 1470 1641
+BO no entregadas (own/paid, quiebre real CENTRAL): 355 355
+
+--- iPaaS ---
+(('RATE_LIMIT',), 'SUCCESS', False) 260
+(('ITEM_NOT_FOUND',), 'ERROR', False) 160
+(('TIMEOUT',), 'SUCCESS', False) 124
+(('TIMEOUT',), 'SUCCESS', True) 92
+ordenes con TIMEOUT 216 duplicadas 92 SO extra 315
+SO extra == intentos-1 en dup: True
+intentos por codigo {'TIMEOUT': Counter({2: 141, 4: 21, 5: 20, 6: 17, 3: 16, 39: 1}), 'RATE_LIMIT': Counter({2: 160, 3: 54, 4: 46}), 'ITEM_NOT_FOUND': Counter({3: 160})}
+ordenes en log 636 pct del total MO 2.38
+eventos error/hora pico [('00', 71), ('15', 66), ('13', 64), ('22', 64), ('01', 58), ('12', 49)]
+MO por hora top [('12', 1742), ('14', 1737), ('15', 1724), ('13', 1714), ('16', 1580), ('22', 1573)]
+detalle -> entrega/caso-2/analisis/detalle_por_orden.csv
+duplicadas -> entrega/caso-2/analisis\duplicadas.csv
